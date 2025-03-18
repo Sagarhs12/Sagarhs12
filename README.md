@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/engineering.png" alt="Engineering Excellence" width="800px">
+  <img src="assets/engineering.gifg" alt="Engineering Excellence" width="800px">
 </p>
 
 <!-- Title -->

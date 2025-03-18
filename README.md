@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/shadowstrike/main/assets/banner.png" alt="ShadowStrike" width="800px">
+  <img src="assets/hacker.png" alt="Hacker at Work" width="800px">
 </p>
 
 <!-- Title -->

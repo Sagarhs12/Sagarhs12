@@ -1,7 +1,7 @@
 <!-- ⚡ PROFESSIONAL ENGINEER GITHUB README - DARK THEME WITH MATRIX BACKGROUND ⚡ -->
 
 <h1 align="center" style="background-color:black;color:green;padding:5px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=14D3ED&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Sagar+Shivappayyanamath!;Software+Engineer+%7C+DevOps+%7C+AI+Enthusiast;Final+Year+Student+%7C+Tech+Innovator;Welcome+to+My+GitHub+Profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=14D3ED&center=true&vCenter=true&width=600&lines= Hello%2C+I'm+Sagar+Shivappayyanamath!;Software+Engineer+%7C+DevOps+%7C+AI+Enthusiast; Final+Year+Student+%7C+Tech+Innovator;Welcome+to+My+GitHub+Profile!">
 </h1>
 
 <p align="center" style="background:black;">

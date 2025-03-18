@@ -4,87 +4,87 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">🕶️ ShadowStrike - The Ultimate Hacking Framework</h1>
-<h3 align="center">Cybersecurity | Reconnaissance | Exploitation | Stealth</h3>
+<h1 align="center">👨‍💻 Cyber Phantom - Master of Stealth</h1>
+<h3 align="center">Ethical Hacking | Cybersecurity | OSINT | Exploitation</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/yourusername/shadowstrike?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/yourusername/shadowstrike?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/yourusername/shadowstrike?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/yourusername/shadowstrike?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/yourusername/cyberphantom?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/yourusername/cyberphantom?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/yourusername/cyberphantom?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/yourusername/cyberphantom?style=for-the-badge">
 </p>
 
 ---
 
 ## 🕵️‍♂️ About
-ShadowStrike is a powerful cyber reconnaissance and penetration testing framework designed for ethical hackers and security professionals. It integrates advanced reconnaissance techniques, automated exploits, and stealth tactics to analyze and strengthen security.
+Cyber Phantom is a cutting-edge cybersecurity toolkit built for ethical hackers and penetration testers. It combines advanced OSINT, reconnaissance, exploitation, and evasion techniques to assess and secure digital environments.
 
-### 🎯 Why ShadowStrike?
-✔ **Multi-Vector Attacks** – Automates exploitation across networks, web apps, and cloud services.  
-✔ **Custom Payloads** – Create and deploy advanced payloads.  
-✔ **Stealth Mode** – Evades firewalls and IDS detection.  
-✔ **OSINT & Recon** – Gathers deep intelligence on targets.  
-✔ **Dark Web Scanning** – Detect vulnerabilities from hidden sources.  
-✔ **Cross-Platform** – Works on Linux, Windows, and macOS.  
+### 🔥 Features
+✔ **Automated Recon & OSINT** – Gather intelligence on your targets seamlessly.  
+✔ **Exploit Toolkit** – Deploy powerful and custom-made exploits.  
+✔ **Stealth Mode** – Evade IDS/IPS and security scans.  
+✔ **Dark Web Intel** – Extract hidden vulnerabilities.  
+✔ **Cross-Platform Compatibility** – Supports Linux, Windows, and macOS.  
+✔ **Live Dashboard** – Real-time monitoring and analytics.
 
 ---
 
 ## 🚀 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/shadowstrike.git
-cd shadowstrike
+git clone https://github.com/yourusername/cyberphantom.git
+cd cyberphantom
 
 # Install dependencies
-chmod +x install.sh && ./install.sh
+chmod +x setup.sh && ./setup.sh
 ```
 
 ---
 
 ## 💻 Usage Guide
 ```bash
-# Start the framework
-python3 shadowstrike.py --target <IP>
+# Start Cyber Phantom
+python3 cyberphantom.py --target <IP>
 ```
 
 ### ⚡ Sample Commands
 ```bash
 # Passive Recon
-python3 shadowstrike.py --recon --target example.com
+python3 cyberphantom.py --recon --target example.com
 
 # Exploit Target
-python3 shadowstrike.py --exploit --target 192.168.1.10
+python3 cyberphantom.py --exploit --target 192.168.1.10
 
-# Evade Detection
-python3 shadowstrike.py --stealth
+# Activate Stealth Mode
+python3 cyberphantom.py --stealth
 ```
 
 ---
 
-## 📡 Modules & Capabilities
-🔍 **Recon** – OSINT, WHOIS, Subdomain enumeration.  
-💀 **Exploit** – Custom exploit execution, Metasploit integration.  
-🕵️ **Social Engineering** – Phishing & identity spoofing.  
-🔀 **Pivoting & Privilege Escalation** – Advanced tunneling techniques.  
-🛡 **Evasion** – Bypass firewalls, honeypots, and security monitoring.  
+## 📡 Toolkit Modules
+🔎 **OSINT & Recon** – Domain lookup, WHOIS, subdomain enumeration.  
+💣 **Exploitation** – Automated attack scripts & vulnerability exploits.  
+🛠 **Social Engineering** – Phishing, identity spoofing, deepfake analysis.  
+🎭 **Stealth & Evasion** – Firewall bypassing, traffic obfuscation.  
+🌐 **Dark Web Scanning** – Monitor darknet for threats.  
 
 ---
 
-## 🎨 Dark Themed UI/UX Preview
+## 🎨 Dark UI/UX Preview
 <p align="center">
-  <img src="assets/ui-preview.png" alt="ShadowStrike UI" width="750px">
+  <img src="assets/ui-preview.png" alt="Cyber Phantom UI" width="750px">
 </p>
 
 ---
 
 ## ⚠️ Legal Disclaimer
-> 🚨 ShadowStrike is for educational & authorized penetration testing **only**.  
-> 🚫 Unauthorized use is **strictly prohibited** and may lead to legal consequences.
+> 🚨 Cyber Phantom is designed for ethical cybersecurity research **only**.  
+> 🚫 Unauthorized use is **strictly prohibited** and may lead to severe legal consequences.
 
 ---
 
 ## 🤝 Contributing
-We welcome contributions! Feel free to submit issues or pull requests to improve ShadowStrike.
+We welcome contributions! Submit issues or pull requests to improve Cyber Phantom.
 
 ---
 
@@ -93,4 +93,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-### _"Hack the system, ethically. 🐱‍💻"_
+### _"Master the art of cyber defense. 🕶️💀"_

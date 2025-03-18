@@ -1,11 +1,15 @@
-<!-- ⚡ ULTIMATE GITHUB README - PROFESSIONAL & DARK THEME ⚡ -->
+<!-- ⚡ ULTIMATE GITHUB README - PROFESSIONAL & DARK THEME WITH MATRIX BACKGROUND ⚡ -->
 
-<h1 align="center">
+<h1 align="center" style="background-color:black;color:green;padding:10px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=14D3ED&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Sagar+H.S.!;AI+%7C+DevOps+%7C+Software+Engineer;Final+Year+Student+%7C+Tech+Enthusiast;Welcome+to+My+GitHub+Profile!">
 </h1>
 
-<p align="center">
+<p align="center" style="background:black;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="800">
 </p>
 
 ---
@@ -32,7 +36,7 @@
 ---
 
 ## 🚀 Tech Stack
-<p align="center">
+<p align="center" style="background:black;padding:10px;">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,django,mysql,mongodb,docker,kubernetes,git,github,linux,aws" />
 </p>
 

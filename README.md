@@ -1,4 +1,4 @@
-<!-- ⚡ PROFESSIONAL ENGINEER GITHUB README - DARK THEME WITH MATRIX BACKGROUND ⚡ -->
+<!-- ⚡ PROFESSIONAL ENGINEER GITHUB README - MATRIX THEME ⚡ -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=14D3ED&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sagar+Shivappayyanamath!;Software+Engineer+%7C+DevOps+%7C+AI+Enthusiast;Final+Year+Student+%7C+Tech+Innovator;Welcome+to+My+GitHub+Profile!" alt="Typing SVG">
@@ -11,30 +11,23 @@
 ---
 
 ## 🧐 About Me
-- 🎓 **Graduating Engineer with Strong Programming & Software Development Skills**
+- 🎓 **Graduating Engineer | Software Developer & AI Enthusiast**
 - 🚀 **Passionate about AI, DevOps, and Fullstack Development**
-- 🔍 **Skilled in:** C, C++, Python, Java, MySQL, Machine Learning, Web Development
-- 🔧 **DevOps Stack:** Docker | Kubernetes | Jenkins | GitHub Actions
-- 🌐 **Web Technologies:** Django | ReactJS | TailwindCSS | MongoDB | MySQL 
-- 🎯 **Goal:** Innovating solutions that bridge AI & DevOps for automation & efficiency
+- 🔧 **Tech Skills:** C | C++ | Python | Java | ML | Django | ReactJS | TailwindCSS | MySQL | MongoDB
+- 🛠 **DevOps Stack:** Docker | Kubernetes | Jenkins | GitHub Actions | AWS
+- 🎯 **Goal:** Innovating solutions bridging AI & DevOps for automation & efficiency
 
 ---
 
 ## 🏆 Projects & Contributions  
+
 ### 🚀 Featured Projects
-1. **CyberSurakshit** – Open-source antivirus enhancing security & storage management  
-   *Tech Stack:* Flutter, Dart, Kotlin, Android Studio  
-
-2. **Online Course Platform** – Accessible learning hub similar to GeeksforGeeks  
-   *Tech Stack:* HTML, CSS, Tailwind CSS, ReactJS, Vite  
-
-3. **Sonic Wave** – Ultrasonic cleaning system for solar heater tubes  
-   *Tech Stack:* Microcontrollers, Ultrasonic Transducers  
-
-4. **Aqua-Saver** – Water recirculation system for efficient heating  
-   *Tech Stack:* Arduino, Sensors, Water Flow Valves  
-
-🔗 **Explore my work:** [GitHub Repositories]([https://github.com/Sagarhs12](https://github.com/Sagarhs12?tab=repositories))
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **CyberSurakshit** | Open-source antivirus enhancing security & storage | Flutter, Dart, Kotlin | [GitHub](https://github.com/Sagarhs12/CyberSurakshit) |
+| **Online Course Platform** | Accessible learning hub like GeeksforGeeks | HTML, CSS, TailwindCSS, ReactJS, Vite | [GitHub](https://github.com/Sagarhs12) |
+| **Sonic Wave** | Ultrasonic cleaning system for solar heater tubes | Microcontrollers, Ultrasonic Transducers | - |
+| **Aqua-Saver** | Water recirculation system for efficient heating | Arduino, Sensors, Water Flow Valves | - |
 
 ---
 
@@ -48,13 +41,10 @@
 ## 🎓 Experience & Certifications  
 - 🏅 **Full Stack Development Internship – Amba Softwares**  
   - Developed & deployed web apps using Python & Django  
-
 - 🏅 **Internship – SKSVMACET, Lakshmeshwar**  
   - Hands-on training in software engineering disciplines  
-
 - 🏅 **College Ambassador Intern – Rooman Technologies**  
   - Corporate outreach & tech promotion  
-
 - 🏅 **Certifications:** AWS Cloud Practitioner | ML with Python | DevOps Essentials  
 
 ---
@@ -66,16 +56,16 @@
 
 ---
 
-## 📜 Achievements  
-🏆 1st Place – Mini-Project Exhibition at SKSVMACET  
-🏆 1st Place – Makers Lab’s Makeathon, Sandbox Startups Hubli  
-🏆 6th Place – Mini Anveshana 2023 at SKSVMACET  
-🏆 Microsoft Learn Student Ambassador Recognition  
-🏆 Appreciation from Devtown for Community Growth  
+## 🏅 Achievements  
+- 🏆 1st Place – Mini-Project Exhibition at SKSVMACET  
+- 🏆 1st Place – Makers Lab Makeathon, Sandbox Startups Hubli  
+- 🏆 6th Place – Mini Anveshana 2023 at SKSVMACET  
+- 🏆 Microsoft Learn Student Ambassador Recognition  
+- 🏆 Appreciation from Devtown for Community Growth  
 
 ---
 
-## 📄 Resume  
+## 📄 Resume & CV  
 📥 **Download My Resume & CV:** [Click Here](https://drive.google.com/drive/folders/1mZLo7nQsGUGDrk3CagnKhP9_EaBoElso?usp=sharing)
 
 ---
@@ -91,6 +81,14 @@
   <a href="mailto:Sagar03sh@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagarhs12&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarhs12&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

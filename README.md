@@ -15,7 +15,6 @@
 <div align="center" style="box-shadow: 0 0 30px #14D3ED; border-radius: 15px; padding: 5px;">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
-
 <details open>
 <summary><b>🚀 About Me</b></summary>
 
@@ -32,7 +31,6 @@
 - 🎮 Hobbies: Custom ROMs, Linux tinkering, problem-solving challenges  
 </div>
 </details>
-
 <details open>
 <summary><b>💻 Tech Stack & Tools</b></summary>
 
@@ -52,7 +50,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 </div>
 </details>
-
 <details open>
 <summary><b>🏆 Achievements</b></summary>
 
@@ -75,7 +72,6 @@
   </table>
 </div>
 </details>
-
 <details open>
 <summary><b>💻 Projects</b></summary>
 
@@ -88,40 +84,30 @@
   </a>
 </div>
 
-mermaid
-graph LR
-    A[CyberSurakshit] --> B[Android Security]
-    A --> C[Storage Management]
-    A --> D[Threat Detection]
-    
-    E[Online Course Platform] --> F[Free Learning]
-    E --> G[Accessibility]
-    
-    H[Sonic Wave] --> I[Ultrasonic Cleaning]
-    H --> J[Solar Heater Tubes]
-    
-    K[Aqua-Saver] --> L[Water Efficiency]
-    K --> M[Arduino Sensors]
-
 ```mermaid
 graph LR
     A[CyberSurakshit] --> B[Android Security]
     A --> C[Storage Management]
     A --> D[Threat Detection]
-    
+
     E[Online Course Platform] --> F[Free Learning]
     E --> G[Accessibility]
-    
+
     H[Sonic Wave] --> I[Ultrasonic Cleaning]
     H --> J[Solar Heater Tubes]
-    
+
     K[Aqua-Saver] --> L[Water Efficiency]
     K --> M[Arduino Sensors]
-
-```</details>
+</details> ```
 📄 Resume & CV
-<div align="center"> <a href="https://drive.google.com/drive/folders/1mZLo7nQsGUGDrk3CagnKhP9_EaBoElso?usp=sharing"> <img src="https://img.shields.io/badge/Resume%20%26%20CV-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=14D3ED&color=0D1117" /> </a> </div>
+<div align="center">
+  <a href="https://drive.google.com/drive/folders/1mZLo7nQsGUGDrk3CagnKhP9_EaBoElso?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume%20%26%20CV-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=14D3ED&color=0D1117" />
+  </a>
+</div>
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sagarhs12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarhs12&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarhs12&theme=radical&bg_color=0D1117&color=14D3ED&line=3EEEB1&point=3EEEB1&area=true&hide_border=true" /> </div>
-🔌 Connect with Me
-<div align="center"> <a href="https://linkedin.com/in/sagar-shivappayyanamath-170a7824a"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14D3ED" /> </a> <a href="https://github.com/Sagarhs12"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /> </a> <a href="mailto:Sagar03sh@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF0055" /> </a> </div> <!-- Footer Neon Quote --> <div align="center" style="box-shadow: 0 0 35px #14D3ED; border-radius: 15px; padding: 15px; margin-top: 15px; color:#3EEEB1; font-weight:bold;"> > *"Innovation distinguishes between a leader and a follower." – Steve Jobs* 🚀 </div> ```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagarhs12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarhs12&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarhs12&theme=radical&bg_color=0D1117&color=14D3ED&line=3EEEB1&point=3EEEB1&area=true&hide_border=true" />
+</div>

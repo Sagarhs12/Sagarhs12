@@ -76,7 +76,7 @@
 ---
 
 ## 📄 Resume  
-📥 **Download My Resume:** [SAGAR_SHIVAPPAYYANAMATH_RESUME.pdf]((https://drive.google.com/drive/folders/1mZLo7nQsGUGDrk3CagnKhP9_EaBoElso?usp=sharing))  
+📥 **Download My Resume & CV:** [Click Here](https://drive.google.com/drive/folders/1mZLo7nQsGUGDrk3CagnKhP9_EaBoElso?usp=sharing)
 
 ---
 

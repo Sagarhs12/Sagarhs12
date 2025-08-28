@@ -88,6 +88,21 @@
   </a>
 </div>
 
+mermaid
+graph LR
+    A[CyberSurakshit] --> B[Android Security]
+    A --> C[Storage Management]
+    A --> D[Threat Detection]
+    
+    E[Online Course Platform] --> F[Free Learning]
+    E --> G[Accessibility]
+    
+    H[Sonic Wave] --> I[Ultrasonic Cleaning]
+    H --> J[Solar Heater Tubes]
+    
+    K[Aqua-Saver] --> L[Water Efficiency]
+    K --> M[Arduino Sensors]
+
 ```mermaid
 graph LR
     A[CyberSurakshit] --> B[Android Security]

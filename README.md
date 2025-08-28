@@ -1,113 +1,100 @@
-<!-- ⚡ CYBERPUNK NEON GITHUB README ⚡ -->
+<!-- ⚡ PROFESSIONAL ENGINEER GITHUB README - DARK THEME WITH MATRIX BACKGROUND ⚡ -->
 
-<div align="center" style="position:relative;">
-  <img src="https://c.tenor.com/Lm6Y3kHWb6AAAAAd/matrix-code.gif" width="100%" style="opacity:0.15; position:absolute; z-index:-1; top:0; left:0;"/>
-  <div style="position:relative; z-index:1; padding: 50px 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=14D3ED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sagar+Shivappayyanamath;Software+Engineer+%7C+DevOps+%7C+AI+Enthusiast;Final+Year+Student+%7C+Tech+Innovator" alt="Typing SVG" />
-  </div>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=14D3ED&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sagar+Shivappayyanamath!;Software+Engineer+%7C+DevOps+%7C+AI+Enthusiast;Final+Year+Student+%7C+Tech+Innovator;Welcome+to+My+GitHub+Profile!" alt="Typing SVG">
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sagarhs12&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
-<!-- Neon divider -->
-<div align="center" style="box-shadow: 0 0 30px #14D3ED; border-radius: 15px; padding: 5px;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-<details open>
-<summary><b>🚀 About Me</b></summary>
+---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</div>
+## 🧐 About Me
+- 🎓 **Graduating Engineer with Strong Programming & Software Development Skills**
+- 🚀 **Passionate about AI, DevOps, and Fullstack Development**
+- 🔍 **Skilled in:** C, C++, Python, Java, MySQL, Machine Learning, Web Development
+- 🔧 **DevOps Stack:** Docker | Kubernetes | Jenkins | GitHub Actions
+- 🌐 **Web Technologies:** Django | ReactJS | TailwindCSS | MongoDB | MySQL 
+- 🎯 **Goal:** Innovating solutions that bridge AI & DevOps for automation & efficiency
 
-<div align="left">
-- 🎓 **B.E. Computer Science Student – SKSVMACET, Lakshmeshwar**  
-- 💼 Ex-Intern at **Amba Softwares** (Full Stack Development)  
-- 🔭 Working on **AI Projects, DevOps Pipelines & Open Source Contributions**  
-- 🌱 Learning **Cloud Native Technologies, Kubernetes & Docker**  
-- 💡 Passionate about building solutions with **Flutter, ReactJS, Django**  
-- 🎮 Hobbies: Custom ROMs, Linux tinkering, problem-solving challenges  
-</div>
-</details>
-<details open>
-<summary><b>💻 Tech Stack & Tools</b></summary>
+---
 
-<div align="center" style="margin-top:10px; box-shadow:0 0 25px #14D3ED; border-radius:15px; padding:10px; transition: all 0.3s; hover:box-shadow 0 0 60px #3EEEB1;">
+## 🏆 Projects & Contributions  
+### 🚀 Featured Projects
+1. **CyberSurakshit** – Open-source antivirus enhancing security & storage management  
+   *Tech Stack:* Flutter, Dart, Kotlin, Android Studio  
+
+2. **Online Course Platform** – Accessible learning hub similar to GeeksforGeeks  
+   *Tech Stack:* HTML, CSS, Tailwind CSS, ReactJS, Vite  
+
+3. **Sonic Wave** – Ultrasonic cleaning system for solar heater tubes  
+   *Tech Stack:* Microcontrollers, Ultrasonic Transducers  
+
+4. **Aqua-Saver** – Water recirculation system for efficient heating  
+   *Tech Stack:* Arduino, Sensors, Water Flow Valves  
+
+🔗 **Explore my work:** [GitHub Repositories]([https://github.com/Sagarhs12](https://github.com/Sagarhs12?tab=repositories))
+
+---
+
+## 🚀 Tech Stack
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,django,mysql,mongodb,docker,kubernetes,git,github,linux,aws" />
-</div>
+</p>
 
-<div align="center" style="margin-top: 10px;">
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-</div>
-</details>
-<details open>
-<summary><b>🏆 Achievements</b></summary>
+---
 
-<div align="center" style="transition: all 0.3s;">
-  <table>
-    <tr>
-      <td align="center" style="transition: all 0.3s;">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
-        <p><b>Runner-Up</b><br>National Hackathon<br>(Codefiesta 4.0)</p>
-      </td>
-      <td align="center" style="transition: all 0.3s;">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60">
-        <p><b>Winner</b><br>Mini-Project Exhibition</p>
-      </td>
-      <td align="center" style="transition: all 0.3s;">
-        <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60">
-        <p><b>Microsoft Recognition</b><br>Learn Student Ambassador</p>
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
-<details open>
-<summary><b>💻 Projects</b></summary>
+## 🎓 Experience & Certifications  
+- 🏅 **Full Stack Development Internship – Amba Softwares**  
+  - Developed & deployed web apps using Python & Django  
 
-<div align="center" style="margin-top:10px;">
-  <a href="https://github.com/Sagarhs12/CyberSurakshit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagarhs12&repo=CyberSurakshit&theme=radical&bg_color=0D1117&border_radius=10" />
+- 🏅 **Internship – SKSVMACET, Lakshmeshwar**  
+  - Hands-on training in software engineering disciplines  
+
+- 🏅 **College Ambassador Intern – Rooman Technologies**  
+  - Corporate outreach & tech promotion  
+
+- 🏅 **Certifications:** AWS Cloud Practitioner | ML with Python | DevOps Essentials  
+
+---
+
+## 🎓 Education  
+- 🎓 **B.E. Computer Science – SKSVMACET, Lakshmeshwar** (CGPA: 6.92, Pursuing)  
+- 🏫 **Pre-University (PCMCS) – Bapuji Independent PU College, Bilgi** (77.33%)  
+- 🏫 **SSLC – St. Paul’s School, Hubli** (74.56%)  
+
+---
+
+## 📜 Achievements  
+🏆 1st Place – Mini-Project Exhibition at SKSVMACET  
+🏆 1st Place – Makers Lab’s Makeathon, Sandbox Startups Hubli  
+🏆 6th Place – Mini Anveshana 2023 at SKSVMACET  
+🏆 Microsoft Learn Student Ambassador Recognition  
+🏆 Appreciation from Devtown for Community Growth  
+
+---
+
+## 📄 Resume  
+📥 **Download My Resume & CV:** [Click Here](https://drive.google.com/drive/folders/1mZLo7nQsGUGDrk3CagnKhP9_EaBoElso?usp=sharing)
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagar-shivappayyanamath-170a7824a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Sagarhs12/Online-Course-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagarhs12&repo=Online-Course-Platform&theme=radical&bg_color=0D1117&border_radius=10" />
+  <a href="https://github.com/Sagarhs12">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-</div>
-
-```mermaid
-graph LR
-    A[CyberSurakshit] --> B[Android Security]
-    A --> C[Storage Management]
-    A --> D[Threat Detection]
-
-    E[Online Course Platform] --> F[Free Learning]
-    E --> G[Accessibility]
-
-    H[Sonic Wave] --> I[Ultrasonic Cleaning]
-    H --> J[Solar Heater Tubes]
-
-    K[Aqua-Saver] --> L[Water Efficiency]
-    K --> M[Arduino Sensors]
-</details> ```
-📄 Resume & CV
-<div align="center">
-  <a href="https://drive.google.com/drive/folders/1mZLo7nQsGUGDrk3CagnKhP9_EaBoElso?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume%20%26%20CV-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=14D3ED&color=0D1117" />
+  <a href="mailto:Sagar03sh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
-</div>
-📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagarhs12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarhs12&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarhs12&theme=radical&bg_color=0D1117&color=14D3ED&line=3EEEB1&point=3EEEB1&area=true&hide_border=true" />
-</div>
+</p>
+
+---
+
+## 🎯 Fun Fact  
+> *"Innovation distinguishes between a leader and a follower." – Steve Jobs* 🚀
+<img width="451" height="689" alt="image" src="https://github.com/user-attachments/assets/9e6a6ce6-6087-44a6-ab01-7bcf5a12f3d1" />

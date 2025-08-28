@@ -12,9 +12,9 @@
 
 ## 🧐 About Me
 - 🎓 **Graduating Engineer with Strong Programming & Software Development Skills**
-- 🚀 **Passionate about AI, DevOps, and Cybersecurity**
+- 🚀 **Passionate about AI, DevOps, and Fullstack Development**
 - 🔍 **Skilled in:** C, C++, Python, Java, MySQL, Machine Learning, Web Development
-- 🔧 **DevOps Stack:** Docker | Kubernetes | Jenkins | GitHub Actions | AWS | Terraform
+- 🔧 **DevOps Stack:** Docker | Kubernetes | Jenkins | GitHub Actions
 - 🌐 **Web Technologies:** Django | ReactJS | TailwindCSS | MongoDB | MySQL 
 - 🎯 **Goal:** Innovating solutions that bridge AI & DevOps for automation & efficiency
 
@@ -34,7 +34,7 @@
 4. **Aqua-Saver** – Water recirculation system for efficient heating  
    *Tech Stack:* Arduino, Sensors, Water Flow Valves  
 
-🔗 **Explore my work:** [GitHub Repositories](https://github.com/Sagarhs12)
+🔗 **Explore my work:** [GitHub Repositories]([https://github.com/Sagarhs12](https://github.com/Sagarhs12?tab=repositories))
 
 ---
 

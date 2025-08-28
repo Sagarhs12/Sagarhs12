@@ -1,23 +1,8 @@
 <!-- ⚡ PROFESSIONAL ENGINEER GITHUB README - DARK THEME WITH MATRIX BACKGROUND ⚡ -->
 
-<!-- ⚡ CYBERPUNK NEON GITHUB README ⚡ -->
-
-<div align="center" style="position:relative;">
-  <img src="https://c.tenor.com/Lm6Y3kHWb6AAAAAd/matrix-code.gif" width="100%" style="opacity:0.15; position:absolute; z-index:-1; top:0; left:0;"/>
-  <div style="position:relative; z-index:1; padding: 50px 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=14D3ED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sagar+Shivappayyanamath;Software+Engineer+%7C+DevOps+%7C+AI+Enthusiast;Final+Year+Student+%7C+Tech+Innovator" alt="Typing SVG" />
-  </div>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sagarhs12&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<!-- Neon divider -->
-<div align="center" style="box-shadow: 0 0 30px #14D3ED; border-radius: 15px; padding: 5px;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=14D3ED&center=true&vCenter=true&width=700&lines=I'm+Sagar+Shivappayyanamath" alt="Typing SVG">
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">

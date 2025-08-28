@@ -34,7 +34,7 @@
 4. **Aqua-Saver** – Water recirculation system for efficient heating  
    *Tech Stack:* Arduino, Sensors, Water Flow Valves  
 
-🔗 **Explore my work:** [GitHub Repositories]([https://github.com/Sagarhs12](https://github.com/Sagarhs12?tab=repositories)
+🔗 **Explore my work:** [GitHub Repositories](https://github.com/Sagarhs12?tab=repositories)
 
 ---
 

@@ -8,10 +8,6 @@
   </div>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=14D3ED&center=true&vCenter=true&width=700&lines=I'm+Sagar+Shivappayyanamath" alt="Typing SVG">
-</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sagarhs12&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>

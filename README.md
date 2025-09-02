@@ -70,14 +70,15 @@
   - Hands-on training in software engineering disciplines  
 
 - 🏅 **College Ambassador Intern – Rooman Technologies**  
-  - Corporate outreach & tech promotion  
+  - Corporate outreach & tech promotion
 
-- 🏅 **Certifications:** AWS Cloud Practitioner | ML with Python | DevOps Essentials  
-
+-🏅 **Full Stack Web Development – Tap Academy (Ongoing)**  
+  - Currently enhancing skills in Java-based Full Stack Development
+  - 
 ---
 
 ## 🎓 Education  
-- 🎓 **B.E. Computer Science – SKSVMACET, Lakshmeshwar** (CGPA: 6.92, Pursuing)  
+- 🎓 **B.E. Computer Science – SKSVMACET, Lakshmeshwar** (CGPA: 6.92)  
 - 🏫 **Pre-University (PCMCS) – Bapuji Independent PU College, Bilgi** (77.33%)  
 - 🏫 **SSLC – St. Paul’s School, Hubli** (74.56%)  
 
@@ -89,6 +90,9 @@
 🏆 6th Place – Mini Anveshana 2023 at SKSVMACET  
 🏆 Microsoft Learn Student Ambassador Recognition  
 🏆 Appreciation from Devtown for Community Growth  
+🏆 Certificate for Skill Competency in *AI DevOps Engineering* (NSQF Level 5, 480 Hours) – NASSCOM, NCVET-recognized  
+🏆 Certificate of Achievement – *AI - DevOps Engineer* Training by Rooman Technologies Pvt. Ltd.  
+🏆 Certificate of Participation – *Establishing a CI/CD Pipeline for Automated Deployments* issued by IBM CEP (April 16, 2025)  
 
 ---
 

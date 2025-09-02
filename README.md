@@ -36,16 +36,19 @@
 
 ## 🏆 Projects & Contributions  
 ### 🚀 Featured Projects
-1. **CyberSurakshit** – Open-source antivirus enhancing security & storage management  
+1. **Pneumonia Detection Using Deep Learning** – AI-powered system to detect pneumonia from chest X-rays with PDF reports, Grad-CAM heatmaps, and text-to-speech support.  
+  *Tech Stack:* Python, TensorFlow/Keras, OpenCV, ReportLab, gTTS, Google Colab
+   
+2. **CyberSurakshit** – Open-source antivirus enhancing security & storage management  
    *Tech Stack:* Flutter, Dart, Kotlin, Android Studio  
 
-2. **Online Course Platform** – Accessible learning hub similar to GeeksforGeeks  
+3. **Online Course Platform** – Accessible learning hub similar to GeeksforGeeks  
    *Tech Stack:* HTML, CSS, Tailwind CSS, ReactJS, Vite  
 
-3. **Sonic Wave** – Ultrasonic cleaning system for solar heater tubes  
+4. **Sonic Wave** – Ultrasonic cleaning system for solar heater tubes  
    *Tech Stack:* Microcontrollers, Ultrasonic Transducers  
 
-4. **Aqua-Saver** – Water recirculation system for efficient heating  
+5. **Aqua-Saver** – Water recirculation system for efficient heating  
    *Tech Stack:* Arduino, Sensors, Water Flow Valves  
 
 🔗 **Explore my work:** [GitHub Repositories](https://github.com/Sagarhs12?tab=repositories)

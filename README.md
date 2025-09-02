@@ -63,18 +63,25 @@
 ---
 
 ## 🎓 Experience & Certifications  
-- 🏅 **Full Stack Development Internship – Amba Softwares**  
-  - Developed & deployed web apps using Python & Django  
 
-- 🏅 **Internship – SKSVMACET, Lakshmeshwar**  
-  - Hands-on training in software engineering disciplines  
+🏅 Full Stack Development Internship – Amba Softwares  
+- Developed & deployed web apps using Python & Django  
 
-- 🏅 **College Ambassador Intern – Rooman Technologies**  
-  - Corporate outreach & tech promotion
+🏅 Internship – SKSVMACET, Lakshmeshwar  
+- Hands-on training in software engineering disciplines  
 
--🏅 **Full Stack Web Development – Tap Academy (Ongoing)**  
-  - Currently enhancing skills in Java-based Full Stack Development
-  - 
+🏅 College Ambassador Intern – Rooman Technologies  
+- Corporate outreach & tech promotion  
+
+🏅 **Full Stack Web Development – Tap Academy (Ongoing, Java)**  
+- Currently enhancing skills in Java-based full stack development  
+
+🏅 Certificate of Achievement – AI DevOps Engineer Training  
+- Successfully completed AI - DevOps Engineer training by Rooman Technologies Pvt. Ltd. (Sept 2024 – Feb 2025)  
+
+🏅 **Certificate for Skill Competency in AI DevOps Engineering**  
+- NSQF Level 5 (480 Hours) certified by IT-ITeS Sector Skill Council (NASSCOM), NCVET-recognized  
+
 ---
 
 ## 🎓 Education  

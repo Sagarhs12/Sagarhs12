@@ -85,7 +85,7 @@
 
 ---
 
-# 🏅 Awards & Certifications (Compressed)
+# 🏅 Awards & Certifications
 
 **AI DevOps Engineer – NSQF Level 5 (NASSCOM, 2025)** — *Issued by IT ITeS Sector Skill Council, NASSCOM.* Cleared national DevOps competency exam (CI/CD, automation, cloud).
 

@@ -25,92 +25,145 @@
 ---
 
 # 🧐 About Me
-- 🎓 **Graduate Engineer with Strong Programming & Software Development Skills**  
-- 🚀 **Passionate about AI, DevOps, and Fullstack Development**  
-- 🔍 **Skilled in:** C, C++, Python, Java, MySQL, Machine Learning, Web Development  
-- 🔧 **DevOps Stack:** Docker | Kubernetes | Jenkins | GitHub Actions  
-- 🌐 **Web Technologies:** Django | ReactJS | TailwindCSS | MongoDB | MySQL  
-- 🎯 **Goal:** Innovating solutions that bridge AI & DevOps for automation & efficiency
+- 🎓 **Graduate Engineer with Strong Programming & Software Development Skills**
+- 🚀 Passionate about **AI, DevOps, and Full-Stack Web Development**
+- 💡 Strong understanding of **Software Engineering, DBMS, OS, CN, OOP, DSA**
+- 🔧 **DevOps Stack:** Docker | Kubernetes | Jenkins | GitHub Actions | CI/CD
+- 🌐 **Web Technologies:** Django | ReactJS | Tailwind CSS | MongoDB | MySQL
+- 🎯 Goal: Bridging **AI + DevOps** to build automation-driven engineering solutions
 
 ---
 
-# 🏆 Projects & Contributions  
-### 🚀 Featured Projects
-1. **Pneumonia Detection Using Deep Learning** – AI system to detect pneumonia from chest X-rays with PDF reports, Grad-CAM heatmaps, and text-to-speech support.  
-   *Tech Stack:* Python, TensorFlow/Keras, OpenCV, ReportLab, gTTS, Google Colab
-
-2. **CyberSurakshit** – Open-source antivirus enhancing security & storage management.  
-   *Tech Stack:* Flutter, Dart, Kotlin, Android Studio
-
-3. **Online Course Platform** – Accessible learning hub similar to GeeksforGeeks.  
-   *Tech Stack:* HTML, CSS, Tailwind CSS, ReactJS, Vite
-
-4. **Sonic Wave** – Ultrasonic cleaning system for solar heater tubes.  
-   *Tech Stack:* Microcontrollers, Ultrasonic Transducers
-
-5. **Aqua-Saver** – Water recirculation system for efficient heating.  
-   *Tech Stack:* Arduino, Sensors, Water Flow Valves
-
-🔗 **Explore my work:** https://github.com/Sagarhs12?tab=repositories
+# 📘 Relevant Courses
+- Web Technologies  
+- Object-Oriented Programming (OOP)  
+- Database Management Systems (DBMS)  
+- Computer Networks (CN)  
+- Operating Systems (OS)  
+- Python Programming  
+- Software Engineering  
+- Java Programming  
+- Data Structures & Algorithms (DSA)  
+- Computer Architecture  
 
 ---
 
-# 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,django,mysql,mongodb,docker,kubernetes,git,github,linux,aws" />
-</p>
+# 🧾 Experience
+
+## 💼 Software Engineer Intern — TAP Academy (May 2025 – Present)
+- Full-stack Java development internship with real-time hands-on training  
+- Building applications using **Java, JDBC API, Hibernate, Servlets, SQL**  
+- Strengthening programming logic, database handling & backend development  
+- Engaging in module-based tasks & practical coding sessions  
+- **Tools:** Eclipse IDE, Git, GitHub, HTML, CSS, JavaScript  
+
+## 💼 Full Stack Development Intern — Amba Softwares (Oct–Nov 2023)
+- Built full-stack applications using **Python, Django & SQL**  
+- Developed responsive UIs using HTML, CSS & JavaScript  
+- Strengthened backend development using Django ORM  
+- Worked with Git version control  
+
+## 💼 Intra-Institutional Internship — SKSVMACET (Oct 2022)
+- Completed a 3-week VTU-based internship on engineering fundamentals  
+- Hands-on labs, sensors, circuits, and mini-project development  
+
+## 💼 College Ambassador Intern — Rooman Technologies (Sep 2024 – May 2025)
+- Promoted Rooman Technology initiatives across campus  
+- Underwent 6-month technical training in:  
+  **DevOps Essentials, Shell Scripting, Git, Docker, Jenkins, Kubernetes, CI/CD**  
+- Assisted in branding & student outreach  
 
 ---
 
-# 🧾 Experience & Summary
+# 🏅 Positions of Responsibility
 
-**Full Stack Development Internship – Amba Softwares**  
-- Developed & deployed web applications using Python & Django.
+### 🟦 Event Student Coordinator — CODEFIESTA 5.0 (Feb 2025)
+- Coordinated a **National-Level 24-Hour Hackathon**  
+- Managed logistics, registrations & inter-college communication  
+- Supported Web & Android tracks  
+- Worked with sponsors, staff & developers  
 
-**Internship – SKSVMACET, Lakshmeshwar**  
-- Hands-on training in software engineering labs & mini-projects.
+### 🟩 Team Lead — Mini Project (Jan–Nov 2023)
+- Led a 4-member development team  
+- Task allocation, team coordination & final project presentation  
 
-**College Ambassador Intern – Rooman Technologies**  
-- Outreach, tech promotion; completed industry training in DevOps tools and workflows.
+### 🟧 Project Coordinator — St. Paul’s School (2018)
+- Managed solar heater optimization project  
+- Led research, testing, and documentation  
 
-**Full Stack Web Development – Tap Academy (Ongoing)**  
-- Enhancing skills in Java-based full-stack development.
+### 🟪 Head Boy — St. Paul’s School (2018–2019)
+- Led student council; coordinated school-wide activities  
+- Enabled smooth communication between students & administration  
+
+### 🟫 Event Volunteer — CODEFIESTA 2.0 & 4.0 (2022)
+- Provided technical support, logistics & setup assistance  
+
+---
+
+# 🏆 Projects & Contributions
+
+### 🚀 Pneumonia Detection Using Deep Learning  
+(*Python, TensorFlow, OpenCV, ReportLab, gTTS, Colab*)
+
+### 🚀 CyberSurakshit — Android Antivirus  
+(*Flutter, Dart, Kotlin*)
+
+### 🚀 Online Course Platform  
+(*ReactJS, Vite, Tailwind CSS*)
+
+### 🚀 Sonic Wave — Ultrasonic Cleaning System  
+(*Microcontrollers, Ultrasonic Transducers*)
+
+### 🚀 Aqua Saver — Water Recirculation System  
+(*Arduino, Sensors, Flow Valves*)
+
+🔗 Explore all projects → https://github.com/Sagarhs12?tab=repositories
+
+---
+
+# 🧠 Skills
+**Programming:** Java, Python, C, C++  
+**Frontend:** HTML5, CSS3, JavaScript, ReactJS, TailwindCSS  
+**Backend:** Django, Servlets, JDBC, Hibernate  
+**DevOps Tools:** Docker, Jenkins, Kubernetes, CI/CD, Git, GitHub  
+**Database:** MySQL, MongoDB  
+**Tools/IDEs:** VS Code, Eclipse  
+**Other Skills:** Problem-solving, Debugging, Leadership, Event Management  
+
+---
+
+# 🌐 Languages
+- **Kannada**  
+- **English**  
+- **Hindi**
+
+---
+
+# 🏅 Awards & Certifications  
+(Compressed Block)
+
+**AI DevOps Engineer – NSQF Level 5 (NASSCOM, 2025)** — Issued by IT ITeS Sector Skill Council  
+**AI DevOps Engineer – Rooman Technologies (2025)**  
+**CI/CD Pipeline – IBM CEP (2025)**  
+**Life Skills (Jeevan Kaushal) – Wadhwani Foundation (2025)**  
+**Facebook Login UI Bootcamp – MLSA (2022)**  
+**Technical Career Counseling – DevTown (2024)**  
+**Mini Project Exhibition – First Place (2024)**  
+**Mini Anveshana – Best Performer (2023)**  
+**Skill Competency – AI DevOps (2025)**  
+**Makers Lab Makeathon – First Place (2018)**  
 
 ---
 
 # 🎓 Education  
 - 🎓 **B.E. Computer Science – SKSVMACET, Lakshmeshwar (CGPA: 7.24)**  
-- 🏫 **Pre-University (PCMCS) – Bapuji Independent PU College, Bilgi** (77.33%)  
-- 🏫 **SSLC – St. Paul’s School, Hubli** (74.56%)
-
----
-
-# 🏅 Awards & Certifications
-
-**AI DevOps Engineer – NSQF Level 5 (NASSCOM, 2025)** — *Issued by IT ITeS Sector Skill Council, NASSCOM.* Cleared national DevOps competency exam (CI/CD, automation, cloud).
-
-**AI DevOps Engineer – Rooman Technologies (2025)** — *Issued by Rooman Technologies Pvt. Ltd.* Training in Git, Docker, Jenkins, Kubernetes, cloud workflows.
-
-**CI/CD Pipeline – IBM CEP (2025)** — *Issued by IBM Career Education Program (IBM CEP).* Hands-on continuous integration, build automation, deployment workflows.
-
-**Life Skills (Jeevan Kaushal) – Wadhwani Foundation (2025)** — *Issued by Wadhwani Foundation.* Completed 93 hours of communication, collaboration, and workplace professionalism training.
-
-**Facebook Login UI Bootcamp – MLSA (2022)** — *Issued by Microsoft Learn Student Ambassador.* Built Facebook-style login UI using HTML/CSS.
-
-**Technical Career Counseling – DevTown (2024)** — *Issued by DevTown.* Participated in IT career pathways and skill-development webinar.
-
-**Mini Project Exhibition – First Place (2024)** — *Issued by SKSVMACET, Dept. of CSE.* Awarded for Online Course Platform (design, implementation, demonstration).
-
-**Mini Anveshana – Best Performer (2023)** — *Issued by SKSVMACET, Agastya International Foundation, Synopsys.* Recognized for Aqua Saver technical explanation & automation demo.
-
-**Skill Competency – AI DevOps (2025)** — *Issued by NASSCOM / NCVET.* National certification for DevOps workflows, CI/CD pipelines, automation tools.
-
-**Makers Lab Makeathon – First Place (2018)** — *Issued by Sandbox Startups, Hubli.* Won for Sonic Wave hardware prototype demonstrating engineering innovation & teamwork.
+- 🏫 **PUC – Bapuji Independent PU College, Bilgi** (77.33%)  
+- 🏫 **SSLC – St. Paul’s School, Hubli** (74.56%)  
 
 ---
 
 # 📄 Resume  
-📥 **Download My Resume & CV:**  
+📥 **Download My Resume:**  
 🔗 https://drive.google.com/file/d/1uttp9jIF7qXU4LoQhlvQo5sWAEYFydbU/view?usp=sharing
 
 ---

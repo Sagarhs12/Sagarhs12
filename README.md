@@ -25,31 +25,31 @@
 ---
 
 # 🧐 About Me
-- 🎓 **Graduate Engineer with Strong Programming & Software Development Skills**
-- 🚀 **Passionate about AI, DevOps, and Fullstack Development**
-- 🔍 **Skilled in:** C, C++, Python, Java, MySQL, Machine Learning, Web Development
-- 🔧 **DevOps Stack:** Docker | Kubernetes | Jenkins | GitHub Actions
-- 🌐 **Web Technologies:** Django | ReactJS | TailwindCSS | MongoDB | MySQL 
+- 🎓 **Graduate Engineer with Strong Programming & Software Development Skills**  
+- 🚀 **Passionate about AI, DevOps, and Fullstack Development**  
+- 🔍 **Skilled in:** C, C++, Python, Java, MySQL, Machine Learning, Web Development  
+- 🔧 **DevOps Stack:** Docker | Kubernetes | Jenkins | GitHub Actions  
+- 🌐 **Web Technologies:** Django | ReactJS | TailwindCSS | MongoDB | MySQL  
 - 🎯 **Goal:** Innovating solutions that bridge AI & DevOps for automation & efficiency
 
 ---
 
 # 🏆 Projects & Contributions  
 ### 🚀 Featured Projects
-1. **Pneumonia Detection Using Deep Learning** – AI-powered system to detect pneumonia from chest X-rays with PDF reports, Grad-CAM heatmaps, and text-to-speech support.  
+1. **Pneumonia Detection Using Deep Learning** – AI system to detect pneumonia from chest X-rays with PDF reports, Grad-CAM heatmaps, and text-to-speech support.  
    *Tech Stack:* Python, TensorFlow/Keras, OpenCV, ReportLab, gTTS, Google Colab
-   
+
 2. **CyberSurakshit** – Open-source antivirus enhancing security & storage management.  
-   *Tech Stack:* Flutter, Dart, Kotlin, Android Studio  
+   *Tech Stack:* Flutter, Dart, Kotlin, Android Studio
 
 3. **Online Course Platform** – Accessible learning hub similar to GeeksforGeeks.  
-   *Tech Stack:* HTML, CSS, Tailwind CSS, ReactJS, Vite  
+   *Tech Stack:* HTML, CSS, Tailwind CSS, ReactJS, Vite
 
 4. **Sonic Wave** – Ultrasonic cleaning system for solar heater tubes.  
-   *Tech Stack:* Microcontrollers, Ultrasonic Transducers  
+   *Tech Stack:* Microcontrollers, Ultrasonic Transducers
 
 5. **Aqua-Saver** – Water recirculation system for efficient heating.  
-   *Tech Stack:* Arduino, Sensors, Water Flow Valves  
+   *Tech Stack:* Arduino, Sensors, Water Flow Valves
 
 🔗 **Explore my work:** https://github.com/Sagarhs12?tab=repositories
 
@@ -65,13 +65,13 @@
 # 🧾 Experience & Summary
 
 **Full Stack Development Internship – Amba Softwares**  
-- Developed & deployed web apps using Python & Django.
+- Developed & deployed web applications using Python & Django.
 
 **Internship – SKSVMACET, Lakshmeshwar**  
-- Hands-on training in software engineering disciplines.
+- Hands-on training in software engineering labs & mini-projects.
 
 **College Ambassador Intern – Rooman Technologies**  
-- Corporate outreach, tech promotion, and completed related technical training.
+- Outreach, tech promotion; completed industry training in DevOps tools and workflows.
 
 **Full Stack Web Development – Tap Academy (Ongoing)**  
 - Enhancing skills in Java-based full-stack development.
@@ -79,40 +79,39 @@
 ---
 
 # 🎓 Education  
-- **B.E. Computer Science – SKSVMACET, Lakshmeshwar** (CGPA: 6.92)  
-- **Pre-University (PCMCS) – Bapuji Independent PU College, Bilgi** (77.33%)  
-- **SSLC – St. Paul’s School, Hubli** (74.56%)  
+- 🎓 **B.E. Computer Science – SKSVMACET, Lakshmeshwar (CGPA: 7.24)**  
+- 🏫 **Pre-University (PCMCS) – Bapuji Independent PU College, Bilgi** (77.33%)  
+- 🏫 **SSLC – St. Paul’s School, Hubli** (74.56%)
 
 ---
 
 # 🏅 Awards & Certifications (Compressed)
 
-**AI DevOps Engineer – NSQF Level 5 (NASSCOM, 2025)** — *Issued by IT ITeS Sector Skill Council, NASSCOM.* Cleared national DevOps competency exam covering CI/CD, cloud, automation, and pipeline orchestration.
+**AI DevOps Engineer – NSQF Level 5 (NASSCOM, 2025)** — *Issued by IT ITeS Sector Skill Council, NASSCOM.* Cleared national DevOps competency exam (CI/CD, automation, cloud).
 
-**AI DevOps Engineer – Rooman Technologies (2025)** — *Issued by Rooman Technologies Pvt. Ltd.* Completed industry-oriented training in Git, Docker, Jenkins, Kubernetes, microservices, cloud workflows, and automation pipelines.
+**AI DevOps Engineer – Rooman Technologies (2025)** — *Issued by Rooman Technologies Pvt. Ltd.* Training in Git, Docker, Jenkins, Kubernetes, cloud workflows.
 
-**CI/CD Pipeline – IBM CEP (2025)** — *Issued by IBM Career Education Program.* Performed hands-on CI/CD workflows including build automation, deployment pipelines, versioning, and integration practices.
+**CI/CD Pipeline – IBM CEP (2025)** — *Issued by IBM Career Education Program (IBM CEP).* Hands-on continuous integration, build automation, deployment workflows.
 
-**Life Skills (Jeevan Kaushal) – Wadhwani Foundation (2025)** — *Issued by Wadhwani Foundation.* Completed 93 hours of training in communication, collaboration, problem-solving, adaptability, and workplace professionalism.
+**Life Skills (Jeevan Kaushal) – Wadhwani Foundation (2025)** — *Issued by Wadhwani Foundation.* Completed 93 hours of communication, collaboration, and workplace professionalism training.
 
-**Facebook Login UI Bootcamp – MLSA (2022)** — *Issued by Microsoft Learn Student Ambassador Program.* Designed and built Facebook-style login UI using HTML & CSS as part of a beginner-friendly UI/UX bootcamp.
+**Facebook Login UI Bootcamp – MLSA (2022)** — *Issued by Microsoft Learn Student Ambassador.* Built Facebook-style login UI using HTML/CSS.
 
-**Technical Career Counseling – DevTown (2024)** — *Issued by DevTown.* Participated in webinar focused on IT career pathways, industry expectations, and structured upskilling strategies.
+**Technical Career Counseling – DevTown (2024)** — *Issued by DevTown.* Participated in IT career pathways and skill-development webinar.
 
-**Mini Project Exhibition – First Place (2024)** — *Issued by SKSVMACET, Dept. of CSE.* Awarded 1st place for the Online Course Platform project based on innovation, frontend architecture, UI design, and technical demo.
+**Mini Project Exhibition – First Place (2024)** — *Issued by SKSVMACET, Dept. of CSE.* Awarded for Online Course Platform (design, implementation, demonstration).
 
-**Mini Anveshana – Best Performer (2023)** — *Issued by SKSVMACET, Agastya International Foundation, Synopsys.* Recognized for Aqua Saver project demonstration, automation design, and technical explanation.
+**Mini Anveshana – Best Performer (2023)** — *Issued by SKSVMACET, Agastya International Foundation, Synopsys.* Recognized for Aqua Saver technical explanation & automation demo.
 
-**Skill Competency – AI DevOps (2025)** — *Issued by NASSCOM & NCVET.* Certified for national-level skills in DevOps workflows, CI/CD implementation, monitoring, and automation tools.
+**Skill Competency – AI DevOps (2025)** — *Issued by NASSCOM / NCVET.* National certification for DevOps workflows, CI/CD pipelines, automation tools.
 
-**Makers Lab Makeathon – First Place (2018)** — *Issued by Sandbox Startups, Hubli.* Secured 1st place for Sonic Wave hardware prototype demonstrating engineering innovation and teamwork.
+**Makers Lab Makeathon – First Place (2018)** — *Issued by Sandbox Startups, Hubli.* Won for Sonic Wave hardware prototype demonstrating engineering innovation & teamwork.
 
 ---
 
 # 📄 Resume  
-📥 **Download My Resume & CV (uploaded file path):** `/mnt/data/sagar_profile resume_compressed.pdf`
-
-> Note: If you want this link to work on GitHub/website, upload the PDF to your repository (for example `assets/sagar_profile_resume_compressed.pdf`) and replace the path above with the repository relative path or an external URL.
+📥 **Download My Resume & CV:**  
+🔗 https://drive.google.com/file/d/1uttp9jIF7qXU4LoQhlvQo5sWAEYFydbU/view?usp=sharing
 
 ---
 

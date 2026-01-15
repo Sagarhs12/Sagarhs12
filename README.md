@@ -164,7 +164,7 @@
 
 # 📄 Resume  
 📥 **Download My Resume:**  
-🔗 https://drive.google.com/file/d/1PrfC4FwGxePDY-HC71j5Phtt5McJ8oR2/view?usp=sharing
+🔗(https://drive.google.com/drive/folders/1tH8Qr9LKRkB2YK32vTFGwZ2dXw9krlD_?usp=sharing)
 ---
 
 # 🌐 Connect with Me

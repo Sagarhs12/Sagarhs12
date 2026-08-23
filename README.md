@@ -1,561 +1,551 @@
-<!-- ========================================================= -->
-
-<!--        SAGAR SHIVAPPAYYANAMATH — GITHUB README           -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Sagar Shivappayyanamath
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:14D3ED&height=220&section=header&text=SAGAR%20SHIVAPPAYYANAMATH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20AZURE%20AI%20%7C%20DEVOPS%20%7C%20FULL-STACK&descAlignY=60&descSize=17&animation=fadeIn"/>
 
-### AI Engineer • Azure AI Specialist • Software Engineer • DevOps • Full-Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=14D3ED&center=true&vCenter=true&width=800&lines=AI+Engineer;Azure+AI+Specialist;Cloud+%26+DevOps+Enthusiast;Full-Stack+Developer;AI+%2B+Cloud+%2B+Automation;Building+Intelligent+Software+Solutions" alt="Typing SVG"/>
 
-<p>
-  <a href="https://sagar-shivappayyanamath-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-14D3ED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/Sagarhs12">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sagar-shivappayyanamath-170a7824a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Sagarhs12&label=PROFILE%20VIEWS&color=14D3ED&style=for-the-badge" alt="Profile Views"/>
-</p>
+<a href="https://sagar-shivappayyanamath-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-14D3ED?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sagarhs12">
+<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=14D3ED"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sagar-shivappayyanamath-170a7824a">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Sagar03sh@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sagarhs12&label=PROFILE%20VIEWS&color=14D3ED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I'm a Computer Science Engineer focused on building **AI-powered applications, cloud solutions, automation systems, and scalable software products**.
+# ⚡ AI ENGINEER × CLOUD × DEVOPS
 
-My interests span across:
+### `Building intelligent systems that connect AI, cloud infrastructure and automation.`
 
-* 🤖 Artificial Intelligence & Machine Learning
-* ☁️ Microsoft Azure & Cloud Computing
-* ⚙️ DevOps & CI/CD Automation
-* 💻 Full-Stack Software Development
-* 📊 Data Analytics
-* 🧠 Generative AI & AI Agents
-* 🔐 Cybersecurity
-* 🗄️ Databases & Backend Engineering
-
-I enjoy turning ideas into practical software by combining **AI + Cloud + Software Engineering + DevOps**.
-
-### 🎯 Current Focus
-
-> Building intelligent, cloud-enabled and automation-driven software solutions.
+</div>
 
 ---
 
-## 🌐 My Portfolio
+## 🧬 SYSTEM PROFILE
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    SAGAR SHIVAPPAYYANAMATH                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  ROLE        → AI Engineer / Software Engineer               ║
+║  SPECIALTY   → Azure AI • Cloud • DevOps • Full-Stack       ║
+║  EDUCATION   → B.E. Computer Science Engineering            ║
+║  GRADUATED   → 2025                                         ║
+║  FOCUS       → AI Applications • Automation • Cloud         ║
+║  LOCATION    → India                                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 👨‍💻 WHO AM I?
+
+I'm a **Computer Science Engineer** passionate about building practical software systems using **Artificial Intelligence, Microsoft Azure, Cloud Computing, DevOps and Full-Stack technologies**.
+
+My engineering interests sit at the intersection of:
+
+```text
+                ┌─────────────────────┐
+                │  ARTIFICIAL         │
+                │  INTELLIGENCE 🤖    │
+                └──────────┬──────────┘
+                           │
+                           ▼
+┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+│   CLOUD ☁️   │───▶│   SOFTWARE   │◀───│   DEVOPS ⚙️  │
+│   AZURE      │    │  ENGINEERING │    │   CI/CD      │
+└──────────────┘    └──────┬───────┘    └──────────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ REAL-WORLD      │
+                  │ AI SOLUTIONS 🚀 │
+                  └─────────────────┘
+```
+
+### 🎯 Current Direction
+
+**AI Engineering → Azure AI → Cloud → DevOps → Intelligent Applications**
+
+---
+
+# 🌐 PORTFOLIO
 
 <div align="center">
 
-### 🚀 Explore My Complete Portfolio
-
 <a href="https://sagar-shivappayyanamath-portfolio.vercel.app/">
 
-<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-14D3ED?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B1F3A,100:14D3ED&height=100&section=header&text=EXPLORE%20MY%20PORTFOLIO%20→&fontSize=28&fontColor=FFFFFF"/>
 
 </a>
 
 </div>
 
-My portfolio contains:
+<br/>
 
-* 👨‍💻 Professional Profile
-* 🧠 Skills Matrix
-* 🚀 Featured Projects
-* 🏆 Certifications
-* 📄 Resume
-* 💼 Professional Experience
-* 📬 Contact Information
+### 🔗 `sagar-shivappayyanamath-portfolio.vercel.app`
+
+My portfolio showcases:
+
+`AI Engineering` • `Azure AI` • `Cloud` • `DevOps` • `Full-Stack` • `Projects` • `Certifications` • `Resume`
 
 ---
 
-# 🧠 Technical Skills
+# 🧠 CORE TECHNOLOGY STACK
 
-## 💻 Programming Languages
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+### 🤖 AI / MACHINE LEARNING
 
-## 🤖 AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
 
-<p>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+<br/>
 
-## ☁️ Cloud & Azure
-
-<p>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20AI%20Apps%20%26%20Agents-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/>
-</p>
-
-## ⚙️ DevOps & Automation
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-## 🌐 Full-Stack Development
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-## 🗄️ Databases
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
-## 🛠️ Tools
-
-<p>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+`Artificial Intelligence` `Machine Learning` `Deep Learning` `Computer Vision` `Grad-CAM`
 
 ---
 
-# 🚀 Featured Projects
+### ☁️ CLOUD / AI CLOUD
 
-## 🧠 AI-Based Pneumonia Detection System
+<img src="https://skillicons.dev/icons?i=azure,oracle,ibm"/>
 
-**Deep Learning • Computer Vision • Medical AI**
+<br/>
 
-A deep-learning based system for detecting pneumonia from chest X-ray images.
+`Microsoft Azure` `Azure AI` `Azure AI Apps & Agents` `Oracle Cloud` `IBM Cloud`
 
-### Key Features
+---
 
-* 🧠 CNN-based image classification
-* 🔬 Comparative deep-learning model analysis
-* 👁️ Grad-CAM explainability
-* 📄 Automated medical PDF report generation
-* 🔊 Text-to-speech support
-* 🖼️ Image preprocessing using OpenCV
+### ⚙️ DEVOPS / AUTOMATION
 
-### Technology
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,githubactions,linux"/>
+
+<br/>
+
+`Docker` `Kubernetes` `Jenkins` `GitHub Actions` `CI/CD` `Git` `GitHub`
+
+---
+
+### 💻 SOFTWARE / FULL-STACK
+
+<img src="https://skillicons.dev/icons?i=java,python,react,vite,tailwind,django,nodejs,js,ts,html,css"/>
+
+<br/>
+
+`Java` `Python` `React` `Vite` `Tailwind CSS` `Django` `Node.js` `JavaScript` `TypeScript`
+
+---
+
+### 🗄️ DATABASES
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase"/>
+
+<br/>
+
+`MySQL` `MongoDB` `Supabase`
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+## 🧠 AI-BASED PNEUMONIA DETECTION
+
+### `AI × COMPUTER VISION × DEEP LEARNING`
+
+</div>
+
+A deep-learning based system designed to analyze chest X-ray images for pneumonia detection.
+
+### ⚡ Highlights
+
+```text
+✓ CNN-based image classification
+✓ Image preprocessing
+✓ Grad-CAM explainability
+✓ Automated PDF report generation
+✓ Text-to-Speech support
+✓ Computer Vision pipeline
+```
+
+**Stack**
 
 `Python` `TensorFlow` `OpenCV` `CNN` `Grad-CAM` `ReportLab` `gTTS` `Google Colab`
 
 ---
 
-## ⚙️ CI/CD Pipeline Automation
+<div align="center">
 
-**DevOps • Jenkins • Docker • Kubernetes**
+## ⚙️ CI/CD PIPELINE AUTOMATION
 
-A complete DevOps pipeline demonstrating automated software build, testing and deployment.
+### `DEVOPS × CONTAINERS × AUTOMATION`
 
-### Key Concepts
+</div>
 
-* 🔄 Continuous Integration
-* 🚀 Continuous Deployment
-* 🐳 Docker containerization
-* 🔧 Jenkins automation
-* ☸️ Kubernetes deployment
-* 🌿 Git/GitHub version control
-* 📦 Automated build pipeline
+A DevOps project demonstrating automated software delivery using modern CI/CD practices.
 
-### Technology
+```text
+Developer
+    │
+    ▼
+  GitHub
+    │
+    ▼
+ Jenkins
+    │
+    ├──── Build
+    ├──── Test
+    └──── Package
+           │
+           ▼
+        Docker
+           │
+           ▼
+     Kubernetes
+           │
+           ▼
+       Deployment
+```
 
-`Jenkins` `Docker` `Kubernetes` `Git` `GitHub` `CI/CD`
+**Stack**
+
+`Git` `GitHub` `Jenkins` `Docker` `Kubernetes` `CI/CD`
 
 ---
 
-## 🌐 Online Course Platform
+<div align="center">
 
-**Full-Stack Web Application**
+## 🌐 ONLINE COURSE PLATFORM
 
-A modern online learning platform designed for course discovery and digital learning.
+### `REACT × VITE × TAILWIND`
 
-### Features
+</div>
 
-* 📚 Course management
-* 👨‍🎓 Student-oriented interface
-* 📱 Responsive UI
-* 🔐 Authentication-ready architecture
-* ⚡ Modern React-based frontend
+A modern web-based learning platform designed for online course discovery and digital learning.
 
-### Technology
+**Stack**
 
 `React` `Vite` `Tailwind CSS` `JavaScript`
 
 ---
 
-## 🛡️ CyberSurakshit
+<div align="center">
 
-**AI-Powered Android Antivirus Concept**
+## 🛡️ CYBERSURAKSHIT
 
-A cybersecurity-focused Android application designed around mobile threat detection and protection.
+### `ANDROID × CYBERSECURITY`
 
-### Focus Areas
+</div>
 
-* 🔐 Malware/security awareness
-* 📱 Android application security
-* 🤖 Intelligent threat-analysis concepts
-* 🛡️ User-oriented security features
+A cybersecurity-focused Android application concept designed around mobile security and threat protection.
 
-### Technology
+**Stack**
 
 `Flutter` `Dart` `Kotlin`
 
 ---
 
-## 💧 Aqua Saver
+<div align="center">
 
-**IoT-Based Smart Water Recirculation System**
+## 💧 AQUA SAVER
 
-A smart water management project designed to reduce water wastage through automated monitoring and recirculation.
+### `IOT × AUTOMATION × WATER MANAGEMENT`
 
-### Technology
+</div>
 
-`Arduino` `Sensors` `Flow Valves` `Microcontrollers` `IoT`
+Smart water recirculation project designed to reduce water wastage through automated monitoring.
+
+**Stack**
+
+`Arduino` `Sensors` `Flow Valves` `Microcontrollers`
 
 ---
 
-## 🔊 Sonic Wave
+<div align="center">
 
-**Ultrasonic Cleaning / Mineral Descaling System**
+## 🔊 SONIC WAVE
 
-An engineering project exploring ultrasonic technology for cleaning and mineral-scale reduction.
+### `ULTRASONIC TECHNOLOGY × EMBEDDED SYSTEMS`
 
-### Technology
+</div>
+
+Engineering project exploring ultrasonic technology for cleaning and mineral-scale reduction.
+
+**Stack**
 
 `Microcontrollers` `Ultrasonic Transducers` `Embedded Systems`
 
 ---
 
-# 💼 Professional Experience
+# 💼 EXPERIENCE
 
-## 💻 Software Engineer Intern — TAP Academy
+## `01` — SOFTWARE ENGINEER INTERN
+
+### TAP Academy
 
 **May 2025 – Present**
 
-* Hands-on full-stack Java development training
-* Working with Java and backend development concepts
-* JDBC API and SQL database operations
-* Hibernate and Servlets
-* Object-oriented programming and problem solving
-* Git and GitHub based development
-* Practical module-based software development
+```text
+Java
+JDBC
+Hibernate
+Servlets
+SQL
+Git
+GitHub
+HTML
+CSS
+JavaScript
+```
 
-**Technology:**
-`Java` `JDBC` `Hibernate` `Servlets` `SQL` `HTML` `CSS` `JavaScript` `Git` `GitHub`
+Hands-on software development experience focused on Java, backend development, database operations, programming logic and practical application development.
 
 ---
 
-## 💻 Full Stack Development Intern — Amba Softwares
+## `02` — FULL-STACK DEVELOPMENT INTERN
+
+### Amba Softwares
 
 **October – November 2023**
 
-* Developed full-stack applications using Python and Django
-* Worked with SQL databases
-* Developed responsive frontend interfaces
-* Used Django ORM for backend data operations
-* Practiced Git-based development workflows
+```text
+Python
+Django
+SQL
+HTML
+CSS
+JavaScript
+Git
+```
 
-**Technology:**
-`Python` `Django` `SQL` `HTML` `CSS` `JavaScript` `Git`
+Worked on full-stack applications, Django backend development, database operations and responsive web interfaces.
 
 ---
 
-## 🎓 College Ambassador Intern — Rooman Technologies
+## `03` — COLLEGE AMBASSADOR INTERN
+
+### Rooman Technologies
 
 **September 2024 – May 2025**
 
-* Promoted technical initiatives across campus
-* Participated in technical training
-* Learned DevOps and cloud-oriented development practices
-* Worked with Git, Docker, Jenkins and Kubernetes
-* Developed understanding of CI/CD automation
-* Supported student engagement and technical outreach
+```text
+DevOps
+Shell Scripting
+Git
+Docker
+Jenkins
+Kubernetes
+CI/CD
+```
 
-**Technology:**
-`DevOps` `Shell Scripting` `Git` `Docker` `Jenkins` `Kubernetes` `CI/CD`
-
----
-
-## 🧪 Intra-Institutional Internship — SKSVMACET
-
-**October 2022**
-
-Completed a VTU-based internship involving:
-
-* Engineering fundamentals
-* Practical laboratory work
-* Sensors and circuits
-* Mini-project development
-* Technical documentation
+Participated in technical training and campus technology initiatives while developing practical DevOps knowledge.
 
 ---
 
-# 🏆 Leadership & Responsibilities
+# 🏆 LEADERSHIP
 
-## 🚀 Event Student Coordinator — CODEFIESTA 5.0
+### 🚀 CODEFIESTA 5.0 — EVENT STUDENT COORDINATOR
 
-**2025**
+**National-Level 24-Hour Hackathon**
 
-National-level 24-hour hackathon coordination.
-
-* Coordinated event logistics
-* Managed registrations
-* Supported participating teams
-* Assisted inter-college communication
-* Supported Web and Android tracks
-* Coordinated with sponsors, faculty and developers
+* Event coordination
+* Registrations
+* Team support
+* Inter-college communication
+* Web & Android tracks
+* Sponsor coordination
 
 ---
 
-## 👨‍💻 Team Lead — Mini Project
+### 👨‍💻 MINI PROJECT — TEAM LEAD
 
-**2023**
+Led a **4-member development team**.
 
-* Led a 4-member development team
-* Distributed technical responsibilities
-* Coordinated development activities
-* Managed project documentation
-* Presented the final project
-
----
-
-## ☀️ Project Coordinator — St. Paul's School
-
-**2018**
-
-Solar heater optimization project.
-
-* Research
-* Testing
+* Task allocation
+* Development coordination
 * Documentation
-* Team coordination
 * Project presentation
 
 ---
 
-## 🏫 Head Boy — St. Paul's School
+### 🏫 HEAD BOY — ST. PAUL'S SCHOOL
 
 **2018–2019**
 
-* Led the student council
-* Coordinated school activities
-* Supported student-management communication
-* Assisted in organizing school events
+Led the student council and coordinated school-wide activities and student-management communication.
 
 ---
 
-# 🎓 Education
-
-### 🎓 Bachelor of Engineering — Computer Science
-
-**SKSVMACET, Lakshmeshwar**
-
-**2021 – 2025**
-
-**CGPA: 7.24 / 10**
-
----
-
-### 🏫 Pre-University Course
-
-**Bapuji Independent P U College**
-
-**PCMC**
-
-**Percentage: 77.33%**
-
----
-
-### 🏫 Secondary School
-
-**St. Paul's Residential School, Hubli**
-
-**Percentage: 74.56%**
-
----
-
-# 📚 Relevant Coursework
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* Computer Architecture
-* Software Engineering
-* Python Programming
-* Java Programming
-* Web Technologies
-
----
-
-# 🏅 Certifications
-
-## ⭐ Microsoft Certified: Azure AI Apps and Agents Developer Associate
-
-Microsoft certification focused on developing AI-powered applications and agents using Microsoft Azure.
-
----
-
-## ☁️ Oracle Cloud AI Foundations Associate
-
-**Oracle**
-
-Certification: `1Z0-1122-25`
-
----
-
-## ☁️ Oracle Cloud Infrastructure Foundations Associate
-
-**Oracle**
-
-Certification: `1Z0-1085`
-
----
-
-## 🤖 AI DevOps Engineer — NSQF Level 5
-
-**NASSCOM / IT-ITeS Sector Skill Council**
-
----
-
-## ⚙️ AI DevOps Engineer
-
-**Rooman Technologies**
-
----
-
-## 🔄 CI/CD Pipeline
-
-**IBM CEP**
-
----
-
-## 🧠 Life Skills — Jeevan Kaushal
-
-**Wadhwani Foundation**
-
----
-
-## 💻 Facebook Login UI Bootcamp
-
-**Microsoft Learn Student Ambassadors**
-
----
-
-## 🎯 Technical Career Counseling
-
-**DevTown**
-
----
-
-# 🏆 Awards & Achievements
-
-* 🥇 Mini Project Exhibition — First Place
-* 🏆 Mini Anveshana — Best Performer
-* 🥇 Makers Lab Makeathon — First Place
-* ⭐ Skill Competency — AI DevOps
-* 🚀 CODEFIESTA 5.0 — Event Student Coordinator
-* 🏅 AI DevOps Engineer — NSQF Level 5
-
----
-
-# 🌍 Languages
-
-| Language     | Proficiency  |
-| ------------ | ------------ |
-| 🇮🇳 Kannada | Native       |
-| 🇬🇧 English | Professional |
-| 🇮🇳 Hindi   | Professional |
-
----
-
-# 📊 GitHub Statistics
+# 🎓 EDUCATION
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sagarhs12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarhs12&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+| 🎓 Qualification          | 🏫 Institution                 | 📊 Result     |
+| ------------------------- | ------------------------------ | ------------- |
+| **B.E. Computer Science** | SKSVMACET, Lakshmeshwar        | **CGPA 7.24** |
+| **PUC — PCMC**            | Bapuji Independent P U College | **77.33%**    |
+| **SSLC**                  | St. Paul's Residential School  | **74.56%**    |
 
 </div>
 
 ---
 
-# 🔥 GitHub Contribution Streak
+# 🏅 CERTIFICATIONS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sagarhs12&theme=tokyonight&hide_border=true" />
+### ☁️ MICROSOFT
+
+**Microsoft Certified: Azure AI Apps and Agents Developer Associate**
+
+---
+
+### ☁️ ORACLE
+
+**Oracle Cloud AI Foundations Associate**
+
+`1Z0-1122-25`
+
+**Oracle Cloud Infrastructure Foundations Associate**
+
+`1Z0-1085`
+
+---
+
+### 🤖 AI / DEVOPS
+
+**AI DevOps Engineer — NSQF Level 5**
+
+**AI DevOps Engineer — Rooman Technologies**
+
+---
+
+### ⚙️ OTHER
+
+**CI/CD Pipeline — IBM CEP**
+
+**Life Skills — Wadhwani Foundation**
+
+**Facebook Login UI Bootcamp — Microsoft Learn Student Ambassadors**
+
+**Technical Career Counseling — DevTown**
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 🏆 ACHIEVEMENTS
+
+```text
+🥇 Mini Project Exhibition             → First Place
+🏆 Mini Anveshana                       → Best Performer
+🥇 Makers Lab Makeathon                 → First Place
+⭐ AI DevOps                            → Skill Competency
+🚀 CODEFIESTA 5.0                       → Event Student Coordinator
+🏅 AI DevOps Engineer                   → NSQF Level 5
+```
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sagarhs12&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=14D3ED&icon_color=14D3ED&text_color=FFFFFF&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarhs12&layout=compact&hide_border=true&theme=tokyonight&bg_color=050816&title_color=14D3ED&text_color=FFFFFF" height="180"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarhs12&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Sagarhs12&theme=tokyonight&hide_border=true&background=050816&ring=14D3ED&fire=14D3ED&currStreakLabel=14D3ED"/>
 
 </div>
 
 ---
 
-# 📄 Resume
+# 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 📈 DEVELOPMENT ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarhs12&bg_color=050816&color=14D3ED&line=14D3ED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🧩 ENGINEERING FOCUS
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│                 FUTURE ENGINEERING PATH                  │
+│                                                          │
+│             🤖 Artificial Intelligence                   │
+│                         │                                │
+│                         ▼                                │
+│                  ☁️ Azure AI                             │
+│                         │                                │
+│                         ▼                                │
+│                 ⚙️ Cloud Engineering                     │
+│                         │                                │
+│                         ▼                                │
+│                 🔄 DevOps Automation                     │
+│                         │                                │
+│                         ▼                                │
+│              💻 Full-Stack Engineering                   │
+│                         │                                │
+│                         ▼                                │
+│                🚀 Intelligent Products                   │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📄 RESUME
 
 <div align="center">
 
 <a href="https://drive.google.com/drive/folders/1tH8Qr9LKRkB2YK32vTFGwZ2dXw9krlD_?usp=sharing">
 
-<img src="https://img.shields.io/badge/📄_VIEW_RESUME-14D3ED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-14D3ED?style=for-the-badge"/>
 
 </a>
 
@@ -563,82 +553,46 @@ Certification: `1Z0-1085`
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT
 
 <div align="center">
 
 <a href="https://sagar-shivappayyanamath-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-14D3ED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sagar-shivappayyanamath-170a7824a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-14D3ED?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Sagarhs12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20GitHub-111111?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sagar-shivappayyanamath-170a7824a">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:Sagar03sh@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/✉️%20Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 What I'm Building Toward
-
-```text
-                ┌─────────────────────────────┐
-                │       SOFTWARE ENGINEERING  │
-                └──────────────┬──────────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-        🤖 AI / ML         ☁️ CLOUD          ⚙️ DEVOPS
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ▼
-                    🚀 INTELLIGENT SYSTEMS
-                               │
-                               ▼
-                     🔄 AUTOMATION
-                               │
-                               ▼
-                    🌐 REAL-WORLD PRODUCTS
-```
-
-My long-term goal is to build **intelligent, scalable and automation-driven software systems** by combining:
-
-**Artificial Intelligence + Cloud Computing + DevOps + Full-Stack Engineering**
-
----
-
-# 💡 Engineering Philosophy
-
-> **Build. Learn. Automate. Improve.**
-
-I believe the best engineering solutions combine strong fundamentals with modern technologies to solve real-world problems.
-
----
-
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+# 💡 BUILD • LEARN • AUTOMATE • INNOVATE
 
-### Let's build something impactful together. 🚀
+### *Turning ideas into intelligent software solutions.*
 
 <br/>
 
 <a href="https://sagar-shivappayyanamath-portfolio.vercel.app/">
 
-**🌐 Visit My Portfolio →**
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO%20→-14D3ED?style=for-the-badge"/>
 
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14D3ED,100:6366F1&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14D3ED,50:0B1F3A,100:050816&height=130&section=footer"/>
 
 </div>

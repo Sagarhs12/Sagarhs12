@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080c,50:7c2d12,100:f97316&height=260&section=header&text=SAGAR%20SHIVAPPAYYANAMATH&fontSize=38&fontColor=FFFFFF&fontAlignY=32&desc=AI%20ENGINEER%20%7C%20MICROSOFT%20CERTIFIED%20AZURE%20AI%20DEVELOPER%20%7C%20DEVOPS%20SPECIALIST&descAlignY=52&descSize=15&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=26&duration=3200&pause=1200&color=F97316&center=true&vCenter=true&width=800&lines=I+ARCHITECT+INTELLIGENT+AI;%26+CLOUD+SYSTEMS" alt="Typing SVG"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/●%20OPEN%20TO%20ALL%20ROLES-10B981?style=for-the-badge&labelColor=08080c"/>
 <img src="https://img.shields.io/badge/AZURE%20CERTIFIED-F97316?style=for-the-badge&labelColor=08080c&color=141420"/>
 

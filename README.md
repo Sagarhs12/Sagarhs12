@@ -1,198 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:14D3ED&height=250&section=header&text=SAGAR%20SHIVAPPAYYANAMATH&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20AZURE%20AI%20%7C%20CLOUD%20%7C%20DEVOPS%20%7C%20FULL-STACK&descAlignY=55&descSize=16&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080c,50:7c2d12,100:f97316&height=260&section=header&text=SAGAR%20SHIVAPPAYYANAMATH&fontSize=38&fontColor=FFFFFF&fontAlignY=32&desc=AI%20ENGINEER%20%7C%20MICROSOFT%20CERTIFIED%20AZURE%20AI%20DEVELOPER%20%7C%20DEVOPS%20SPECIALIST&descAlignY=52&descSize=15&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=14D3ED&center=true&vCenter=true&width=800&lines=AI+Engineer+%F0%9F%A4%96;Azure+AI+Specialist+%E2%98%81%EF%B8%8F;Cloud+%26+DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Software+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=26&duration=3200&pause=1200&color=F97316&center=true&vCenter=true&width=800&lines=I+ARCHITECT+INTELLIGENT+AI;%26+CLOUD+SYSTEMS" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://sagar-shivappayyanamath-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-14D3ED?style=for-the-badge&logoColor=white"/></a>
-<a href="https://github.com/Sagarhs12"><img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=14D3ED"/></a>
-<a href="https://www.linkedin.com/in/sagar-shivappayyanamath-170a7824a"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Sagar03sh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/●%20OPEN%20TO%20ALL%20ROLES-10B981?style=for-the-badge&labelColor=08080c"/>
+<img src="https://img.shields.io/badge/AZURE%20CERTIFIED-F97316?style=for-the-badge&labelColor=08080c&color=141420"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sagarhs12&label=PROFILE%20VIEWS&color=14D3ED&style=for-the-badge"/>
+<!-- Site nav -->
+<a href="#-about"><img src="https://img.shields.io/badge/ABOUT-08080c?style=for-the-badge&logoColor=F97316"/></a>
+<a href="#-projects"><img src="https://img.shields.io/badge/PROJECTS-08080c?style=for-the-badge&logoColor=F97316"/></a>
+<a href="#-skills"><img src="https://img.shields.io/badge/SKILLS-08080c?style=for-the-badge&logoColor=F97316"/></a>
+<a href="#-certifications"><img src="https://img.shields.io/badge/CERTS-08080c?style=for-the-badge&logoColor=F97316"/></a>
+<a href="#-experience--education"><img src="https://img.shields.io/badge/TIMELINE-08080c?style=for-the-badge&logoColor=F97316"/></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/CONTACT-08080c?style=for-the-badge&logoColor=F97316"/></a>
+
+<br/><br/>
+
+<a href="https://sagar-shivappayyanamath-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-F97316?style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/Sagarhs12"><img src="https://img.shields.io/badge/GITHUB-08080c?style=for-the-badge&logo=github&logoColor=F97316"/></a>
+<a href="https://www.linkedin.com/in/sagar-shivappayyanamath"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sagar03sh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sagarhs12&label=PROFILE%20VIEWS&color=F97316&style=for-the-badge"/>
 
 </div>
 
 <br/>
+
+## 🧿 About
+
+I am **Sagar Shivappayyanamath**, currently pursuing an **M.Tech in Computer Science & Engineering (AI & ML) at PES University**, and a **Microsoft Certified Azure AI Developer**. I engineer deep learning systems, automated cloud DevOps pipelines, and intelligent software architectures.
+
+I'm passionate about **Artificial Intelligence, Cloud Computing, Software Engineering, DevOps, and Data Analytics** — with deeper technical interests in **Generative AI, AI Agents, Large Language Models (LLMs), Machine Learning, Intelligent Automation, and Cloud-Native Solutions**. Hands-on with Python, Java, SQL, Azure AI Services, Azure AI Foundry, Docker, Jenkins, CI/CD, Oracle Cloud Infrastructure (OCI), TensorFlow, OpenCV, and REST APIs.
+
+Through my M.Tech journey I'm building deeper expertise in Machine Learning, Deep Learning, NLP, distributed systems, and AI engineering — working toward production-ready AI/ML solutions that bridge cutting-edge AI with resilient, production-grade software and DevOps practices.
 
 <div align="center">
 
-## ⚡ AI ENGINEER × CLOUD × DEVOPS
-
-*Building intelligent systems that connect AI, cloud infrastructure, and automation.*
+| 🎓 CS Graduate | 🏅 Industry Certs | ⚙️ Pipeline Automation |
+|:---:|:---:|:---:|
+| **2025** | **20+** | **100%** |
+| BE Computer Science & Engineering (VTU) · Pursuing M.Tech AI/ML at PES University | Microsoft, Oracle & Forage — Azure AI Developer, OCI Foundations & Global Job Simulations | Docker & Jenkins deployments — end-to-end CI/CD & reproducible cloud releases |
 
 </div>
 
-<br/>
-
-## 🧬 System Profile
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    SAGAR SHIVAPPAYYANAMATH                    ║
-╠══════════════════════════════════════════════════════════════╣
-║  ROLE        → AI Engineer / Software Engineer                ║
-║  SPECIALTY   → Azure AI • Cloud • DevOps • Full-Stack         ║
-║  EDUCATION   → B.E. Computer Science Engineering               ║
-║  GRADUATED   → 2025                                            ║
-║  FOCUS       → AI Applications • Automation • Cloud            ║
-║  LOCATION    → India                                            ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-## 👨‍💻 Who Am I?
-
-I'm a **Computer Science Engineer** passionate about building practical software systems using **Artificial Intelligence, Microsoft Azure, Cloud Computing, DevOps, and Full-Stack technologies**.
-
-My engineering interests sit at the intersection of AI, Cloud, and DevOps — turning ideas into real, working, intelligent products.
-
-```text
-                ┌─────────────────────┐
-                │  ARTIFICIAL         │
-                │  INTELLIGENCE 🤖    │
-                └──────────┬──────────┘
-                           │
-                           ▼
-┌──────────────┐    ┌──────────────┐    ┌──────────────┐
-│   CLOUD ☁️   │───▶│   SOFTWARE   │◀───│   DEVOPS ⚙️  │
-│   AZURE      │    │  ENGINEERING │    │   CI/CD      │
-└──────────────┘    └──────┬───────┘    └──────────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ REAL-WORLD      │
-                  │ AI SOLUTIONS 🚀 │
-                  └─────────────────┘
-```
-
-**🎯 Current direction:** AI Engineering → Azure AI → Cloud → DevOps → Intelligent Applications
-
-<br/>
-
-## 🌐 Portfolio
+**🌐 Languages:** English (Professional) • Hindi (Limited Working) • Kannada (Native/Bilingual)
+**📍 Location:** Karnataka, India
 
 <div align="center">
 
 <a href="https://sagar-shivappayyanamath-portfolio.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B1F3A,100:14D3ED&height=90&section=header&text=EXPLORE%20MY%20PORTFOLIO%20→&fontSize=26&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7c2d12,100:f97316&height=85&section=header&text=sagar-shivappayyanamath-portfolio.vercel.app&fontSize=18&fontColor=FFFFFF"/>
 </a>
 
-**🔗 sagar-shivappayyanamath-portfolio.vercel.app**
-
-`AI Engineering` • `Azure AI` • `Cloud` • `DevOps` • `Full-Stack` • `Projects` • `Certifications` • `Resume`
-
 </div>
 
 <br/>
 
-## 🧠 Core Technology Stack
-
-<div align="center">
-
-**🤖 AI / Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
-
-`Artificial Intelligence` `Machine Learning` `Deep Learning` `Computer Vision` `Grad-CAM`
-
-<br/>
-
-**☁️ Cloud / AI Cloud**
-
-<img src="https://skillicons.dev/icons?i=azure,oracle,ibm"/>
-
-`Microsoft Azure` `Azure AI` `Azure AI Apps & Agents` `Oracle Cloud` `IBM Cloud`
-
-<br/>
-
-**⚙️ DevOps / Automation**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,githubactions,linux"/>
-
-`Docker` `Kubernetes` `Jenkins` `GitHub Actions` `CI/CD` `Git` `GitHub`
-
-<br/>
-
-**💻 Software / Full-Stack**
-
-<img src="https://skillicons.dev/icons?i=java,python,react,vite,tailwind,django,nodejs,js,ts,html,css"/>
-
-`Java` `Python` `React` `Vite` `Tailwind CSS` `Django` `Node.js` `JavaScript` `TypeScript`
-
-<br/>
-
-**🗄️ Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase"/>
-
-`MySQL` `MongoDB` `Supabase`
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI-Based Pneumonia Detection
-**AI × Computer Vision × Deep Learning**
+### 🛡️ CYBERSURAKSHIT
+**AI-Powered Antivirus for Android** · 2024–2025
 
-A deep-learning system analyzing chest X-ray images for pneumonia detection.
+Government-sponsored mobile threat detection engine — real-time detection of malware, malicious APKs, and cyber threats using ML.
 
-- CNN-based image classification
-- Image preprocessing pipeline
-- Grad-CAM explainability
-- Automated PDF report generation
-- Text-to-Speech support
+🏆 Selected & sponsored under the **48th Series Student Project Programme (SPP) 2024–25** by **KSCST, Government of Karnataka** (Ref No: `48S_BE_5649`).
 
-**Stack:** `Python` `TensorFlow` `OpenCV` `CNN` `Grad-CAM` `ReportLab` `gTTS` `Google Colab`
+**Stack:** `Python` `Machine Learning` `Android Security` `Malware Detection`
+[🔗 Repo](https://github.com/Sagarhs12/CyberSurakshit)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ CI/CD Pipeline Automation
-**DevOps × Containers × Automation**
+### 🧠 Pneumonia Detection — Deep Learning
+**Comparative Analysis of CNN Architectures** · Jan–May 2025
 
-An end-to-end DevOps pipeline demonstrating automated software delivery.
+BE Final Year Major Project (VTU) comparing CNN architectures for chest X-ray classification, with Grad-CAM explainability, auto-generated PDF reports, and audio explanations.
 
-```text
-Developer → GitHub → Jenkins
-   → Build → Test → Package
-   → Docker → Kubernetes → Deploy
-```
+📊 **96.4% accuracy** · Grad-CAM explainability · Auto-PDF & audio reporting
 
-**Stack:** `Git` `GitHub` `Jenkins` `Docker` `Kubernetes` `CI/CD`
+**Stack:** `Python` `TensorFlow` `OpenCV` `CNNs` `Grad-CAM` `ReportLab`
+[🔗 Repo](https://github.com/Sagarhs12/Comparative-Analysis-of-Deep-Learning-Models-for-Pneumonia)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Online Course Platform
-**React × Vite × Tailwind**
+### ⚙️ Establishment of CI/CD Pipeline
+**IBM Career Education Program (IBM CEP)** · Sep 2024–May 2025
 
-A modern web-based learning platform for online course discovery and digital learning.
+Automated CI/CD pipeline for deployments using Jenkins, Docker, and Git — automated linting, testing, multi-stage container builds, and zero-manual-config deploys.
 
-**Stack:** `React` `Vite` `Tailwind CSS` `JavaScript`
+**Stack:** `Docker` `Jenkins` `Git Workflows` `CI/CD` `Linux`
+[🔗 Repo](https://github.com/Sagarhs12/Establishment-of-CI-CD-Pipeline)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ CyberSurakshit
-**Android × Cybersecurity**
+### 🌐 Online Course Platform
+**Full-Stack E-Learning Web App** · Dec 2023–Jun 2024
 
-A cybersecurity-focused Android application concept built around mobile security and threat protection.
+Modern learning platform with structured course modules, dynamic routing, and a fully responsive UI.
 
-**Stack:** `Flutter` `Dart` `Kotlin`
+🏆 **1st Place** — CSE Dept Mini Project Exhibition
+
+**Stack:** `React` `Vite` `Tailwind CSS` `JavaScript`
+[🔗 Repo](https://github.com/Sagarhs12/Online-Course-Platform)
 
 </td>
 </tr>
@@ -200,71 +125,89 @@ A cybersecurity-focused Android application concept built around mobile security
 <td width="50%" valign="top">
 
 ### 💧 Aqua Saver
-**IoT × Automation × Water Management**
+**Smart Water Recirculation System** · May 2018–Feb 2019
 
-A smart water recirculation system designed to reduce wastage through automated monitoring.
+Automated water-conservation system that redirects cold pre-run water back to the tank until hot water is ready — built under the **Atal Tinkering Lab** initiative.
 
-**Stack:** `Arduino` `Sensors` `Flow Valves` `Microcontrollers`
+**Stack:** `Arduino` `Sensors & Automation` `Embedded C` `IoT`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔊 Sonic Wave
-**Ultrasonic Technology × Embedded Systems**
+**Ultrasonic Mineral Descaling System** · Nov 2018
 
-An engineering project exploring ultrasonic technology for cleaning and mineral-scale reduction.
+🏆 **1st Place Winner** — Makers Lab Makeathon, Sandbox Startups, Hubballi. Ultrasonic transducers dislodge mineral scale in solar water heater tubes, chemical-free.
 
-**Stack:** `Microcontrollers` `Ultrasonic Transducers` `Embedded Systems`
+**Stack:** `IoT` `Ultrasonic Technology` `Microcontrollers`
 
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
 
-## 💼 Experience
+🔗 **Full case studies, architecture diagrams & live demos →** [View on Portfolio](https://sagar-shivappayyanamath-portfolio.vercel.app/)
 
-<table>
-<tr><th>Role</th><th>Organization</th><th>Duration</th><th>Focus</th></tr>
-<tr>
-<td><b>Software Engineer Intern</b></td>
-<td>TAP Academy</td>
-<td>May 2025 – Present</td>
-<td>Java, JDBC, Hibernate, Servlets, SQL, Git</td>
-</tr>
-<tr>
-<td><b>Full-Stack Development Intern</b></td>
-<td>Amba Softwares</td>
-<td>Oct – Nov 2023</td>
-<td>Python, Django, SQL, HTML/CSS/JS</td>
-</tr>
-<tr>
-<td><b>College Ambassador Intern</b></td>
-<td>Rooman Technologies</td>
-<td>Sep 2024 – May 2025</td>
-<td>DevOps, Shell Scripting, Docker, Jenkins, Kubernetes, CI/CD</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-## 🏆 Leadership
-
-- **🚀 CodeFiesta 5.0 — Event Student Coordinator** (National-Level 24-Hour Hackathon): event coordination, registrations, team support, inter-college communication, web & Android tracks, sponsor coordination.
-- **👨‍💻 Mini Project — Team Lead**: led a 4-member development team; task allocation, development coordination, documentation, and presentation.
-- **🏫 Head Boy — St. Paul's School (2018–2019)**: led the student council and coordinated school-wide activities and student communication.
-
-<br/>
-
-## 🎓 Education
+## ⚡ Skills
 
 <div align="center">
 
-| 🎓 Qualification | 🏫 Institution | 📊 Result |
-|---|---|---|
-| **B.E. Computer Science** | SKSVMACET, Lakshmeshwar | **CGPA 7.24** |
-| **PUC — PCMC** | Bapuji Independent P U College | **77.33%** |
-| **SSLC** | St. Paul's Residential School | **74.56%** |
+**🤖 AI & Machine Learning**
+
+`Artificial Intelligence` `Machine Learning` `Computer Vision` `Deep Learning` `Azure AI Foundry` `Generative AI`
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
+
+<br/>
+
+**☁️ Cloud & DevOps**
+
+`Cloud Computing` `Microsoft Azure` `Oracle Cloud Infrastructure` `Docker` `CI/CD` `DevOps` `Git`
+
+<img src="https://skillicons.dev/icons?i=azure,oracle,docker,kubernetes,jenkins,git,github"/>
+
+<br/>
+
+**💻 Languages & Frameworks**
+
+`Python` `Java` `React.js` `Node.js` `JavaScript / TypeScript`
+
+<img src="https://skillicons.dev/icons?i=java,python,react,vite,tailwind,nodejs,js,ts,html,css"/>
+
+<br/>
+
+**📊 Data & Analytics**
+
+`SQL` `MySQL` `Data Analytics` `Business Intelligence (MSBI)`
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</div>
+
+<div align="center">
+
+| Skill | Level |
+|---|:---:|
+| Python | ████████████████████░ 95% |
+| Artificial Intelligence | ████████████████████░ 95% |
+| Machine Learning | ███████████████████░░ 93% |
+| Git | ███████████████████░░ 94% |
+| CI/CD | ██████████████████░░░ 92% |
+| Docker | ██████████████████░░░ 92% |
+| SQL | ██████████████████░░░ 92% |
+| Data Analytics | ██████████████████░░░ 90% |
+| React.js | ██████████████████░░░ 90% |
+| Cloud Computing | ██████████████████░░░ 90% |
+| DevOps | ██████████████████░░░ 90% |
+| JavaScript / TypeScript | ██████████████████░░░ 90% |
+| Computer Vision | █████████████████░░░░ 88% |
+| MySQL | █████████████████░░░░ 88% |
+| Node.js | █████████████████░░░░ 86% |
 
 </div>
 
@@ -272,28 +215,72 @@ An engineering project exploring ultrasonic technology for cleaning and mineral-
 
 ## 🏅 Certifications
 
-- ☁️ **Microsoft Certified:** Azure AI Apps and Agents Developer Associate
-- ☁️ **Oracle Cloud AI Foundations Associate** (`1Z0-1122-25`)
-- ☁️ **Oracle Cloud Infrastructure Foundations Associate** (`1Z0-1085`)
-- 🤖 **AI DevOps Engineer** — NSQF Level 5
-- 🤖 **AI DevOps Engineer** — Rooman Technologies
-- ⚙️ **CI/CD Pipeline** — IBM CEP
-- ⚙️ **Life Skills** — Wadhwani Foundation
-- ⚙️ **Facebook Login UI Bootcamp** — Microsoft Learn Student Ambassadors
-- ⚙️ **Technical Career Counseling** — DevTown
+<details open>
+<summary><b>☁️ Cloud & AI (Microsoft, Oracle)</b></summary>
+<br/>
+
+- 🅼 **Microsoft Certified: Azure AI Apps and Agents Developer Associate** — Issued Jun 2026 · Expires Jun 2027
+- 🅾 **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** — Issued Dec 2025 · Expires Dec 2027
+- 🅾 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — Expired Dec 2025
+- 🅼 **Business Analytics with Excel** (Microsoft × Simplilearn) — Expired Dec 2025
+
+</details>
+
+<details>
+<summary><b>💼 Forage Job Simulations (Deloitte, Mastercard, AWS, EY, JPMorganChase)</b></summary>
+<br/>
+
+- **Deloitte Australia** — Cyber Job Simulation (Apr 2026)
+- **Mastercard** — Cybersecurity Job Simulation (Apr 2026)
+- **Amazon Web Services (AWS)** — Solutions Architecture Job Simulation (Dec 2025)
+- **EY** — Climate Change and Sustainability Job Simulation (Dec 2025)
+- **Deloitte Australia** — Technology Job Simulation (Dec 2025)
+- **EY** — Forensic and Integrity Services Job Simulation (Dec 2025)
+- **J.P. Morgan Chase & Co** — Software Engineering Job Simulation (Dec 2025)
+- **Deloitte Australia** — Data Analytics Job Simulation (Dec 2025)
+
+</details>
+
+<details>
+<summary><b>⚙️ DevOps, AI & Engineering</b></summary>
+<br/>
+
+- **AI DevOps Engineer** — Rooman Technologies Pvt Ltd (May 2025) · `CAN_3388297`
+- **AI DevOps Engineer — NSQF Level 5** — IT ITeS SSC / NASSCOM (Mar 2025)
+- **CI/CD Pipeline for Automated Deployments** — IBM Career Education Program (Apr 2025)
+- **Create Facebook Login Using HTML & CSS — Bootcamp** — Microsoft Learn Student Ambassador NUTECH Chapter (Feb 2022)
+
+</details>
+
+<details>
+<summary><b>🏆 Awards & Recognition</b></summary>
+<br/>
+
+- 🥇 **First Place** — Mini Project Exhibition, SKSVMACET (Jul 2024) — Online Course Platform
+- 🏆 **Best Performer** — Mini Anveshana, SKSVMACET / Agastya International / Synopsys (Nov 2023)
+- 🥇 **First Place** — Makers Lab Makeathon, Sandbox Startups, Hubli (Nov 2018) — Sonic Wave
+- 🌱 **Life Skills (Jeevan Kaushal) 2.0 — Basic Level** — Wadhwani Foundation (Jan 2025)
+
+</details>
 
 <br/>
 
-## 🏆 Achievements
+## 📈 Experience & Education
 
-| Achievement | Result |
-|---|---|
-| 🥇 Mini Project Exhibition | First Place |
-| 🏆 Mini Anveshana | Best Performer |
-| 🥇 Makers Lab Makeathon | First Place |
-| ⭐ AI DevOps | Skill Competency |
-| 🚀 CodeFiesta 5.0 | Event Student Coordinator |
-| 🏅 AI DevOps Engineer | NSQF Level 5 |
+```text
+2026 – 2028   🎓 M.Tech, Computer Science & Engineering — PES University, Bengaluru
+              Specialization: Artificial Intelligence & Machine Learning
+
+2024 – 2025   💼 Campus Ambassador — Rooman Technologies
+              Led CI/CD (Docker & Jenkins) demos & workshops for 200+ students
+
+2021 – 2025   🎓 B.E. Computer Science — Visvesvaraya Technological University
+              Capstone: AI-Based Pneumonia Detection using Deep Learning & CNNs
+
+2020 – 2021   🎓 PUC, Science (PCMCS) — Bapuji Independent PU College
+
+2018 – 2019   🎓 SSLC (Class 10) — St. Paul's Residential School, Hubli
+```
 
 <br/>
 
@@ -301,99 +288,58 @@ An engineering project exploring ultrasonic technology for cleaning and mineral-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sagarhs12&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=14D3ED&icon_color=14D3ED&text_color=FFFFFF&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarhs12&layout=compact&hide_border=true&theme=tokyonight&bg_color=050816&title_color=14D3ED&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sagarhs12&show_icons=true&hide_border=true&theme=dark&bg_color=08080c&title_color=F97316&icon_color=F97316&text_color=FFFFFF&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarhs12&layout=compact&hide_border=true&theme=dark&bg_color=08080c&title_color=F97316&text_color=FFFFFF" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarhs12&theme=tokyonight&hide_border=true&background=050816&ring=14D3ED&fire=14D3ED&currStreakLabel=14D3ED"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarhs12&theme=dark&hide_border=true&background=08080c&ring=F97316&fire=F97316&currStreakLabel=F97316"/>
 
 <br/><br/>
 
 <img src="https://github-readme-trophy.vercel.app/?username=Sagarhs12&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-## 🐍 Contribution Matrix
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarhs12&bg_color=08080c&color=F97316&line=F97316&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 <br/>
-
-## 📈 Development Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarhs12&bg_color=050816&color=14D3ED&line=14D3ED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🧩 Engineering Focus
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                 FUTURE ENGINEERING PATH                  │
-│                                                            │
-│   🤖 Artificial Intelligence                              │
-│            │                                               │
-│            ▼                                               │
-│   ☁️ Azure AI                                              │
-│            │                                               │
-│            ▼                                               │
-│   ⚙️ Cloud Engineering                                    │
-│            │                                               │
-│            ▼                                               │
-│   🔄 DevOps Automation                                     │
-│            │                                               │
-│            ▼                                               │
-│   💻 Full-Stack Engineering                                │
-│            │                                               │
-│            ▼                                               │
-│   🚀 Intelligent Products                                  │
-└──────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-<div align="center">
 
 ## 📄 Resume
 
+<div align="center">
+
 <a href="https://drive.google.com/drive/folders/1tH8Qr9LKRkB2YK32vTFGwZ2dXw9krlD_?usp=sharing">
-<img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-14D3ED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-F97316?style=for-the-badge"/>
 </a>
 
-<br/><br/>
+</div>
 
-## 🌐 Connect
+<br/>
 
-<a href="https://sagar-shivappayyanamath-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-14D3ED?style=for-the-badge"/></a>
+## 📬 Contact
+
+<div align="center">
+
+Open to all roles — remote or relocation. Let's talk AI, Cloud, or DevOps.
+
+<a href="mailto:sagar03sh@gmail.com"><img src="https://img.shields.io/badge/✉️%20sagar03sh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sagar-shivappayyanamath"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Sagarhs12"><img src="https://img.shields.io/badge/💻%20GitHub-111111?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/sagar-shivappayyanamath-170a7824a"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:Sagar03sh@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://sagar-shivappayyanamath-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-F97316?style=for-the-badge"/></a>
+
+📍 Karnataka, India (Open to Relocate / Remote)
 
 <br/><br/>
 
 # 💡 BUILD • LEARN • AUTOMATE • INNOVATE
 
-*Turning ideas into intelligent software solutions.*
+*Turning ideas into intelligent AI & cloud systems.*
 
 <br/>
 
-<a href="https://sagar-shivappayyanamath-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO%20→-14D3ED?style=for-the-badge"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14D3ED,50:0B1F3A,100:050816&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:7c2d12,100:08080c&height=130&section=footer"/>
 
 </div>
